@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="分类, 个人博客">
+    <meta name="keywords" content="分类: 文学，小说, 个人博客">
     <meta name="description" content="个人博客">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>分类 | 个人博客</title>
+    <title>分类: 文学，小说 | 个人博客</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -397,7 +397,7 @@
                 
                 <a href="/categories/%E6%96%87%E5%AD%A6%EF%BC%8C%E5%B0%8F%E8%AF%B4/" title="文学，小说: 1">
                     <span class="chip center-align waves-effect waves-light
-                             chip-default "
+                             chip-active "
                             style="background-color: #E8F8F5;">文学，小说
                         <span class="tag-length">1</span>
                     </span>
@@ -411,65 +411,70 @@
 
 
     
-    <style type="text/css">
-    #category-radar {
-        width: 100%;
-        height: 360px;
-    }
-</style>
 
-<div class="container" data-aos="fade-up">
-    <div class="card">
-        <div id="category-radar" class="card-content"></div>
-    </div>
-</div>
+    <article id="articles" class="container articles">
+        <div class="row tags-posts">
+            
+            <div class="article tag-post col s12 m6 l4" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/2021/02/16/%E3%80%8A%E9%B2%81%E6%BB%A8%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0%E3%80%8B%E7%AE%80%E4%BB%8B/">
+                        <div class="card-image tag-image">
+                            
+                            
+                            <img src="/medias/featureimages/10.jpg" class="responsive-img" alt="《鲁滨逊漂流记》简介">
+                            
+                            <span class="card-title">《鲁滨逊漂流记》简介</span>
+                        </div>
+                    </a>
+                    <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            
+                                《鲁滨逊漂流记》是英国作家丹尼尔·笛福的一部长篇小说。该书首次出版于1719年4月25日。
+该作主要讲述了主人公鲁滨逊·克鲁索（ROBINSON CRUSOE）出生于一个中产阶级家庭，一生志在遨游四海。一次在去非洲航海的途中遇到风暴，只身漂
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-02-16
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fas fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/%E6%96%87%E5%AD%A6%EF%BC%8C%E5%B0%8F%E8%AF%B4/" class="post-category">
+                                    文学，小说
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
 
-<script type="text/javascript" src="/libs/echarts/echarts.min.js"></script>
-<script type="text/javascript">
-    let radarChart = echarts.init(document.getElementById('category-radar'));
-
-    
-
-    let option = {
-        title: {
-            left: 'center',
-            text: '文章分类雷达图',
-            textStyle: {
-                fontWeight: 500,
-                fontSize: 22
-            }
-        },
-        tooltip: {},
-        radar: {
-            name: {
-                textStyle: {
-                    color: '#3C4858'
-                }
-            },
-            indicator: [{"name":"日志","max":4},{"name":"Windows","max":4},{"name":"网盘","max":4},{"name":"文学，小说","max":4}],
-            nameGap: 5,
-            center: ['50%','55%'],
-            radius: '66%'
-        },
-        series: [{
-            type: 'radar',
-            color: ['#3ecf8e'],
-            itemStyle: {normal: {areaStyle: {type: 'default'}}},
-            data : [
-                {
-                    value : [3,1,1,1],
-                    name : '文章分类数量'
-                }
-            ]
-        }]
-    };
-
-    radarChart.setOption(option);
-</script>
-
-    
-
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/%E6%96%87%E5%AD%A6/">
+                            <span class="chip bg-color">文学</span>
+                        </a>
+                        
+                        <a href="/tags/%E5%B0%8F%E8%AF%B4/">
+                            <span class="chip bg-color">小说</span>
+                        </a>
+                        
+                        <a href="/tags/%E9%B2%81%E6%BB%A8%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0/">
+                            <span class="chip bg-color">鲁滨逊漂流记</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+        </div>
+    </article>
 </main>
+
+
 
 
     <footer class="page-footer bg-color">
