@@ -5,8 +5,8 @@
     
     <entry>
       <title>《鲁滨逊漂流记》简介</title>
-      <link href="posts/undefined.html"/>
-      <url>posts/undefined.html</url>
+      <link href="posts/a67c.html"/>
+      <url>posts/a67c.html</url>
       
         <content type="html"><![CDATA[<p><a href="https://baike.so.com/doc/5350765-5586221.html">《鲁滨逊漂流记》</a>是英国作家<a href="https://baike.so.com/doc/5367322-5603084.html">丹尼尔·笛福</a>的一部长篇小说。该书首次出版于1719年4月25日。</p><p>该作主要讲述了主人公鲁滨逊·克鲁索（ROBINSON CRUSOE）出生于一个中产阶级家庭，一生志在遨游四海。一次在去非洲航海的途中遇到风暴，只身漂流到一个无人的荒岛上，开始了段与世隔绝的生活。他凭着强韧的意志与不懈的努力，在荒岛上顽强地生存下来，经过28年2个月零19天后得以返回故乡。</p>]]></content>
       
@@ -36,8 +36,8 @@
     
     <entry>
       <title>测试如何新建一篇文章</title>
-      <link href="posts/undefined.html"/>
-      <url>posts/undefined.html</url>
+      <link href="posts/73dc.html"/>
+      <url>posts/73dc.html</url>
       
         <content type="html"><![CDATA[<p>尝试写一句话”今天外面风很大。“</p>]]></content>
       
@@ -61,8 +61,8 @@
     
     <entry>
       <title>Hexo第一天调试</title>
-      <link href="posts/undefined.html"/>
-      <url>posts/undefined.html</url>
+      <link href="posts/8022.html"/>
+      <url>posts/8022.html</url>
       
         <content type="html"><![CDATA[<p>今天第一次使用且安装了Hexo框架搭建的博客网站。设置基本上都是正确的。运行本地站点也是没有问题除了无法打开正式的公网地址，也不知道是什么原因。虽然花了些时间调试，但不是学计算机的，没有什么感觉。<br>无论怎样，本地站点可以运行，感觉还是不错。</p>]]></content>
       
@@ -88,8 +88,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="posts/undefined.html"/>
-      <url>posts/undefined.html</url>
+      <link href="posts/3eeb.html"/>
+      <url>posts/3eeb.html</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -101,8 +101,8 @@
     
     <entry>
       <title>NTFS文件链接</title>
-      <link href="posts/undefined.html"/>
-      <url>posts/undefined.html</url>
+      <link href="posts/1828.html"/>
+      <url>posts/1828.html</url>
       
         <content type="html"><![CDATA[<p>创建符号链接（Symbolic Link）的方法是在目标文件夹下，复制路径，用命令行工具CMD中DIR命令，打开目标文件夹路径，再使用mklink命令工具。<br>Mklink LinkFileName.(txt) D:\Filename.txt<br>其中 LinkFileName.(txt) 为符号链接，D:\Filename.txt为源文件路径。</p>]]></content>
       
@@ -130,10 +130,10 @@
     
     <entry>
       <title>凉城公园</title>
-      <link href="posts/undefined.html"/>
-      <url>posts/undefined.html</url>
+      <link href="posts/f27a.html"/>
+      <url>posts/f27a.html</url>
       
-        <content type="html"><![CDATA[<p><img src="/2020/06/20/%E5%87%89%E5%9F%8E%E5%85%AC%E5%9B%AD/LC2.jpg" alt="凉城公园"><br>凉城公园的广场上的一亭子间，旁有蓝色的艺术鱼雕相衬。</p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/posts/undefined/LC2.jpg" alt="凉城公园"><br>凉城公园的广场上的一亭子间，旁有蓝色的艺术鱼雕相衬。</p>]]></content>
       
       
       <categories>
@@ -157,8 +157,8 @@
     
     <entry>
       <title>蓝奏云</title>
-      <link href="posts/undefined.html"/>
-      <url>posts/undefined.html</url>
+      <link href="posts/b729.html"/>
+      <url>posts/b729.html</url>
       
         <content type="html"><![CDATA[<p>发现一提供云储存服务的新网站：<a href="https://pc.woozooo.com/">蓝奏云</a>。可以更好地实践文件资源的云分享和云储存。文件分享有外链分享地址。</p>]]></content>
       
