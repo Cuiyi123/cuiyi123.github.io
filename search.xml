@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>测试在文章中加入链接（链接PDF文件）</title>
+      <link href="posts/4f0a.html"/>
+      <url>posts/4f0a.html</url>
+      
+        <content type="html"><![CDATA[<p>我在这里准备插入一PDF链接，不知道是否可以在此平台上显示效果。<br>[点击此处]了解一般电脑硬盘寿命是多久？(<a href="http://www.liaojie.com/">www.liaojie.com</a>)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>满庭芳-秦观</title>
       <link href="posts/8ed6.html"/>
       <url>posts/8ed6.html</url>
