@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>CMD-命令提示符简介及常用命令</title>
+      <link href="posts/980c.html"/>
+      <url>posts/980c.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Windows 命令提示符（cmd.exe）是 Windows NT 下的一个用于运行 Windows 控制面板程序或某些 DOS 程序的shell程序；或在 Windows CE 下只用于运行控制面板程序的外壳程序。      </p><h2 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h2><table> <tr>    <td><b><center>命令名称</center></b></td>    <td><b><center>命令含义</center></b></td>    <td><b><center>使用方法</center></b></td>    </b> </tr> <tr>    <td>help</td>    <td>获取帮助文档</td>    <td>有关某个命令的详细信息，请键入 HELP [命令名]。</td> </tr> <tr>     <td>cd</td>     <td>显示当前目录名或改变当前目录</td>     <td>CD [/D] [drive:][path]</td> </tr> <tr>     <td>dir</td>     <td>列出目录和文件名</td>     <td></td> </tr> <tr>     <td>md</td>     <td>建立子目录</td>     <td></td> </tr> <tr>     <td>ren</td>     <td>改变文件名</td>     <td></td> </tr> <tr>     <td>xcopy</td>     <td>拷贝目录和文件</td>     <td></td> </tr></table><hr><p>参考链接：<a href="http://dwz.date/esuZ">http://dwz.date/esuZ</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+          <category> CMD </category>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> CMD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>宫词-白居易</title>
       <link href="posts/4e38.html"/>
       <url>posts/4e38.html</url>
