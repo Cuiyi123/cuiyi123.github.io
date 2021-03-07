@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Markdown简介即基础语法</title>
+      <link href="posts/778c.html"/>
+      <url>posts/778c.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Markdown简介及基础语法"><a href="#Markdown简介及基础语法" class="headerlink" title="Markdown简介及基础语法"></a>Markdown简介及基础语法</h2><p><a href="https://baike.so.com/doc/6949586-7171987.html">Markdown</a>是一种纯文本格式的标记语言，且是<a href="https://baike.so.com/doc/30042247-31652444.html">轻量级标记语言</a>。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p><p>Markdown文件后缀名：.md, .markdown </p><h2 id="轻量级标记语言的特点及用途"><a href="#轻量级标记语言的特点及用途" class="headerlink" title="轻量级标记语言的特点及用途"></a>轻量级标记语言的特点及用途</h2><ul><li>格式简单，源文件容易阅读和编辑。适合撰写笔记，使作者的注意力集中于撰写内容而非形式;</li><li>纯文本有跨平台特性，适合网络传播。例如维基百科使用的MediaWiki语言就是轻量级标记语言的一种。</li><li>采用轻量级标记语言的文档很容易转换为更重量级的其他文档，例如 PDF/Tex/HTML等，被很多软件网站用来制作文档，例如python的官方文档采用reStructuredText语言。</li><li>应用程序中使用轻量级标记语言的一个目的是使得用户能够像阅读编译后的结果一样阅读原始文档，比如当用户下载了一个软件库，那么会更期望在文本编辑器中阅读而不是打开浏览器阅读。</li><li>另外一个应用场景是网络出版，例如在博客和wiki，输入界面通常是一个简单的文本框，服务器软件会把输入转换为通常的的文档标记语言，如HTML或XHTML。</li></ul><h2 id="Markdown基础语法"><a href="#Markdown基础语法" class="headerlink" title="Markdown基础语法"></a>Markdown基础语法</h2><table><thead><tr><th align="center">命令名称</th><th align="center">命令标记</th><th align="center">示例</th></tr></thead><tbody><tr><td align="center">一级标题</td><td align="center"><code># </code></td><td align="center">略</td></tr><tr><td align="center">二级标题</td><td align="center"><code>## </code></td><td align="center">略</td></tr><tr><td align="center">三级标题</td><td align="center"><code>### </code></td><td align="center">略</td></tr><tr><td align="center">四级标题</td><td align="center"><code>#### </code></td><td align="center">略</td></tr><tr><td align="center">五级标题</td><td align="center"><code>##### </code></td><td align="center">略</td></tr><tr><td align="center">六级标题</td><td align="center"><code>###### </code></td><td align="center">略</td></tr><tr><td align="center">字体加粗</td><td align="center"><code>&lt;b&gt;</code>content<code>&lt;/b&gt;</code></td><td align="center"><b>加粗内容</b></td></tr><tr><td align="center">字体斜体</td><td align="center"><code>&lt;i&gt;</code>content<code>&lt;/i&gt;</code></td><td align="center"><i>倾斜内容</i></td></tr></tbody></table><hr><p>参考链接：</p><ol><li><a href="https://baike.so.com/doc/6949586-7171987.html">https://baike.so.com/doc/6949586-7171987.html</a></li><li><a href="https://baike.so.com/doc/30042247-31652444.html">https://baike.so.com/doc/30042247-31652444.html</a></li><li><a href="https://islu.cn/posts/40652.html">Markdown基础语法</a>-作者：卢慧军</li></ol><p><em>本文章仅供个人学习、研究或者欣赏所用。</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机语言 </category>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机语言 </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>征人怨（柳中庸）</title>
       <link href="posts/28a9.html"/>
       <url>posts/28a9.html</url>
