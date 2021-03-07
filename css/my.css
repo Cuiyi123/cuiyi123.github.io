@@ -1,11 +1,11 @@
 /* Here is your custom css styles. */
 
 @font-face{
-    font-family: '宋体';
+    font-family: 'simsunb';
     src: url('../font/simsunb.ttf');
 }
 
 body{
-    font-family: '宋体';
+    font-family: 'simsunb';
 	color: black;
 }
