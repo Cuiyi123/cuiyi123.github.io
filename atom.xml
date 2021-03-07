@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-03-07T03:55:07.418Z</updated>
+  <updated>2021-03-07T04:06:53.008Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://cuiyi123.github.io/posts/28a9.html"/>
     <id>https://cuiyi123.github.io/posts/28a9.html</id>
     <published>2021-03-07T03:22:12.000Z</published>
-    <updated>2021-03-07T03:55:07.418Z</updated>
+    <updated>2021-03-07T04:06:53.008Z</updated>
     
     
       
@@ -36,10 +36,16 @@
     
     
     
-    <category term="-文学 -唐诗" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6-%E5%94%90%E8%AF%97/"/>
+    <category term="文学" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="唐诗" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/%E5%94%90%E8%AF%97/"/>
     
     
-    <category term="-文学 -唐诗 -唐诗鉴赏" scheme="https://cuiyi123.github.io/tags/%E6%96%87%E5%AD%A6-%E5%94%90%E8%AF%97-%E5%94%90%E8%AF%97%E9%89%B4%E8%B5%8F/"/>
+    <category term="文学" scheme="https://cuiyi123.github.io/tags/%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="唐诗" scheme="https://cuiyi123.github.io/tags/%E5%94%90%E8%AF%97/"/>
+    
+    <category term="唐诗鉴赏" scheme="https://cuiyi123.github.io/tags/%E5%94%90%E8%AF%97%E9%89%B4%E8%B5%8F/"/>
     
   </entry>
   
