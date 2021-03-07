@@ -13,14 +13,20 @@
       
       <categories>
           
-          <category> -文学 -唐诗 </category>
+          <category> 文学 </category>
+          
+          <category> 唐诗 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -文学 -唐诗 -唐诗鉴赏 </tag>
+            <tag> 文学 </tag>
+            
+            <tag> 唐诗 </tag>
+            
+            <tag> 唐诗鉴赏 </tag>
             
         </tags>
       
