@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-03-08T12:51:01.882Z</updated>
+  <updated>2021-03-09T11:12:16.170Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://cuiyi123.github.io/posts/31d6.html"/>
     <id>https://cuiyi123.github.io/posts/31d6.html</id>
     <published>2021-03-08T12:09:27.000Z</published>
-    <updated>2021-03-08T12:51:01.882Z</updated>
+    <updated>2021-03-09T11:12:16.170Z</updated>
     
     
       
@@ -36,9 +36,9 @@
     
     <category term="Log" scheme="https://cuiyi123.github.io/categories/Log/"/>
     
-    <category term="English Learning" scheme="https://cuiyi123.github.io/categories/Log/English-Learning/"/>
+    <category term="English Learning" scheme="https://cuiyi123.github.io/categories/English-Learning/"/>
     
-    <category term="writing" scheme="https://cuiyi123.github.io/categories/Log/English-Learning/writing/"/>
+    <category term="Writing" scheme="https://cuiyi123.github.io/categories/English-Learning/Writing/"/>
     
     
     <category term="Log" scheme="https://cuiyi123.github.io/tags/Log/"/>
@@ -184,7 +184,7 @@
     <link href="https://cuiyi123.github.io/posts/980c.html"/>
     <id>https://cuiyi123.github.io/posts/980c.html</id>
     <published>2021-02-28T05:41:25.000Z</published>
-    <updated>2021-03-06T01:47:26.321Z</updated>
+    <updated>2021-03-09T11:10:59.915Z</updated>
     
     
       
@@ -199,9 +199,9 @@
     
     <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
-    <category term="CMD" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/CMD/"/>
+    <category term="Windows" scheme="https://cuiyi123.github.io/categories/Windows/"/>
     
-    <category term="Windows" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/CMD/Windows/"/>
+    <category term="CMD" scheme="https://cuiyi123.github.io/categories/Windows/CMD/"/>
     
     
     <category term="计算机" scheme="https://cuiyi123.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
@@ -310,7 +310,7 @@
     <link href="https://cuiyi123.github.io/posts/4627.html"/>
     <id>https://cuiyi123.github.io/posts/4627.html</id>
     <published>2021-02-21T02:55:36.000Z</published>
-    <updated>2021-03-06T01:14:35.604Z</updated>
+    <updated>2021-03-09T11:02:25.745Z</updated>
     
     
       
@@ -328,7 +328,7 @@
     
     <category term="随笔" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="杂文" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/%E9%9A%8F%E7%AC%94/%E6%9D%82%E6%96%87/"/>
+    <category term="杂文" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/%E6%9D%82%E6%96%87/"/>
     
     
     <category term="文学" scheme="https://cuiyi123.github.io/tags/%E6%96%87%E5%AD%A6/"/>
@@ -446,7 +446,7 @@
     <link href="https://cuiyi123.github.io/posts/73dc.html"/>
     <id>https://cuiyi123.github.io/posts/73dc.html</id>
     <published>2021-02-15T12:37:06.000Z</published>
-    <updated>2021-03-06T01:11:52.944Z</updated>
+    <updated>2021-03-09T11:06:18.441Z</updated>
     
     
       
@@ -460,7 +460,11 @@
     
     
     
-    <category term="日志" scheme="https://cuiyi123.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="日志" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%97%A5%E5%BF%97/"/>
+    
+    <category term="测试" scheme="https://cuiyi123.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
     <category term="测试" scheme="https://cuiyi123.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
@@ -472,7 +476,7 @@
     <link href="https://cuiyi123.github.io/posts/8022.html"/>
     <id>https://cuiyi123.github.io/posts/8022.html</id>
     <published>2021-02-14T11:27:21.000Z</published>
-    <updated>2021-02-17T01:15:40.674Z</updated>
+    <updated>2021-03-09T11:07:36.247Z</updated>
     
     
       
@@ -486,7 +490,11 @@
     
     
     
-    <category term="日志" scheme="https://cuiyi123.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="日志" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%97%A5%E5%BF%97/"/>
+    
+    <category term="测试" scheme="https://cuiyi123.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
     <category term="Hexo" scheme="https://cuiyi123.github.io/tags/Hexo/"/>
@@ -500,7 +508,7 @@
     <link href="https://cuiyi123.github.io/posts/3eeb.html"/>
     <id>https://cuiyi123.github.io/posts/3eeb.html</id>
     <published>2021-02-14T03:53:57.703Z</published>
-    <updated>2021-03-06T01:57:03.820Z</updated>
+    <updated>2021-03-09T11:09:16.291Z</updated>
     
     
       
@@ -515,11 +523,11 @@
     
     <category term="英语" scheme="https://cuiyi123.github.io/categories/%E8%8B%B1%E8%AF%AD/"/>
     
-    <category term="帮助" scheme="https://cuiyi123.github.io/categories/%E8%8B%B1%E8%AF%AD/%E5%B8%AE%E5%8A%A9/"/>
+    <category term="帮助" scheme="https://cuiyi123.github.io/categories/%E5%B8%AE%E5%8A%A9/"/>
     
-    <category term="help" scheme="https://cuiyi123.github.io/categories/%E8%8B%B1%E8%AF%AD/%E5%B8%AE%E5%8A%A9/help/"/>
+    <category term="Help" scheme="https://cuiyi123.github.io/categories/Help/"/>
     
-    <category term="Hexo" scheme="https://cuiyi123.github.io/categories/%E8%8B%B1%E8%AF%AD/%E5%B8%AE%E5%8A%A9/help/Hexo/"/>
+    <category term="Hexo" scheme="https://cuiyi123.github.io/categories/Hexo/"/>
     
     
     <category term="Hexo" scheme="https://cuiyi123.github.io/tags/Hexo/"/>
@@ -566,7 +574,7 @@
     <link href="https://cuiyi123.github.io/posts/f27a.html"/>
     <id>https://cuiyi123.github.io/posts/f27a.html</id>
     <published>2020-06-20T06:23:41.000Z</published>
-    <updated>2021-02-17T01:15:40.695Z</updated>
+    <updated>2021-03-09T11:04:32.256Z</updated>
     
     
       
@@ -579,7 +587,9 @@
     
     
     
-    <category term="日志" scheme="https://cuiyi123.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    <category term="照片" scheme="https://cuiyi123.github.io/categories/%E7%85%A7%E7%89%87/"/>
+    
+    <category term="日志" scheme="https://cuiyi123.github.io/categories/%E7%85%A7%E7%89%87/%E6%97%A5%E5%BF%97/"/>
     
     
     <category term="手机照片" scheme="https://cuiyi123.github.io/tags/%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87/"/>
