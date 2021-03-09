@@ -17,7 +17,7 @@
           
           <category> English Learning </category>
           
-          <category> writing </category>
+          <category> Writing </category>
           
       </categories>
       
@@ -174,9 +174,9 @@
           
           <category> 计算机 </category>
           
-          <category> CMD </category>
-          
           <category> Windows </category>
+          
+          <category> CMD </category>
           
       </categories>
       
@@ -426,7 +426,11 @@
       
       <categories>
           
+          <category> 计算机 </category>
+          
           <category> 日志 </category>
+          
+          <category> 测试 </category>
           
       </categories>
       
@@ -451,7 +455,11 @@
       
       <categories>
           
+          <category> 计算机 </category>
+          
           <category> 日志 </category>
+          
+          <category> 测试 </category>
           
       </categories>
       
@@ -482,7 +490,7 @@
           
           <category> 帮助 </category>
           
-          <category> help </category>
+          <category> Help </category>
           
           <category> Hexo </category>
           
@@ -545,6 +553,8 @@
       
       
       <categories>
+          
+          <category> 照片 </category>
           
           <category> 日志 </category>
           
