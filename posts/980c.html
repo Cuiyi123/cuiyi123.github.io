@@ -444,6 +444,14 @@
                                 <span class="chip bg-color">Windows</span>
                             </a>
                         
+                            <a href="/tags/%E6%89%B9%E5%A4%84%E7%90%86/">
+                                <span class="chip bg-color">批处理</span>
+                            </a>
+                        
+                            <a href="/tags/batch/">
+                                <span class="chip bg-color">batch</span>
+                            </a>
+                        
                     </div>
                     
                 </div>
@@ -464,6 +472,10 @@
                                 CMD
                             </a>
                         
+                            <a href="/categories/Windows/%E6%89%B9%E5%A4%84%E7%90%86/" class="post-category">
+                                批处理
+                            </a>
+                        
                     </div>
                     
                 </div>
@@ -480,7 +492,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2021-03-11
+                    2021-03-12
                 </div>
                 
 
@@ -528,9 +540,9 @@
      <td></td>
  </tr>
  <tr>
-     <td>ren</td>
-     <td>改变文件名</td>
-     <td></td>
+     <td>rem</td>
+     <td>在批处理文件或 CONFIG.SYS 里加上注解或说明。</td>
+     <td>rem [comment]</td>
  </tr>
  <tr>
      <td>xcopy</td>
@@ -547,7 +559,9 @@
 <figure class="highlight plain"><figcaption><span>[CMD CD 命令]</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\dell&gt;help cd</span><br><span class="line">显示当前目录名或改变当前目录。</span><br><span class="line"></span><br><span class="line">CHDIR [&#x2F;D] [drive:][path]</span><br><span class="line">CHDIR [..]</span><br><span class="line">CD [&#x2F;D] [drive:][path]</span><br><span class="line">CD [..]</span><br><span class="line"></span><br><span class="line">  ..   指定要改成父目录。</span><br><span class="line"></span><br><span class="line">键入 CD drive: 显示指定驱动器中的当前目录。</span><br><span class="line">不带参数只键入 CD，则显示当前驱动器和目录。</span><br><span class="line"></span><br><span class="line">使用 &#x2F;D 开关，除了改变驱动器的当前目录之外，</span><br><span class="line">还可改变当前驱动器。</span><br><span class="line"></span><br><span class="line">如果命令扩展被启用，CHDIR 会如下改变:</span><br><span class="line"></span><br><span class="line">当前的目录字符串会被转换成使用磁盘名上的大小写。所以，</span><br><span class="line">如果磁盘上的大小写如此，CD C:\TEMP 会将当前目录设为</span><br><span class="line">C:\Temp。</span><br><span class="line"></span><br><span class="line">CHDIR 命令不把空格当作分隔符，因此有可能将目录名改为一个</span><br><span class="line">带有空格但不带有引号的子目录名。例如:</span><br><span class="line"></span><br><span class="line">     cd \winnt\profiles\username\programs\start menu</span><br><span class="line"></span><br><span class="line">与下列相同:</span><br><span class="line"></span><br><span class="line">     cd &quot;\winnt\profiles\username\programs\start menu&quot;</span><br><span class="line"></span><br><span class="line">在扩展停用的情况下，你必须键入以上命令。</span><br></pre></td></tr></table></figure>
 <h3 id="DIR命令"><a href="#DIR命令" class="headerlink" title="DIR命令"></a>DIR命令</h3><p>DIR命令的使用方法：</p>
 <figure class="highlight plain"><figcaption><span>[CMD DIR 命令]</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\dell&gt;help dir</span><br><span class="line">显示目录中的文件和子目录列表。</span><br><span class="line"></span><br><span class="line">DIR [drive:][path][filename] [&#x2F;A[[:]attributes]] [&#x2F;B] [&#x2F;C] [&#x2F;D] [&#x2F;L] [&#x2F;N]</span><br><span class="line">  [&#x2F;O[[:]sortorder]] [&#x2F;P] [&#x2F;Q] [&#x2F;R] [&#x2F;S] [&#x2F;T[[:]timefield]] [&#x2F;W] [&#x2F;X] [&#x2F;4]</span><br><span class="line"></span><br><span class="line">  [drive:][path][filename]</span><br><span class="line">              指定要列出的驱动器、目录和&#x2F;或文件。</span><br><span class="line"></span><br><span class="line">  &#x2F;A          显示具有指定属性的文件。</span><br><span class="line">  属性         D  目录                R  只读文件</span><br><span class="line">               H  隐藏文件            A  准备存档的文件</span><br><span class="line">               S  系统文件            I  无内容索引文件</span><br><span class="line">               L  重新分析点          O  脱机文件</span><br><span class="line">               -  表示“否”的前缀</span><br><span class="line">  &#x2F;B          使用空格式(没有标题信息或摘要)。</span><br><span class="line">  &#x2F;C          在文件大小中显示千位数分隔符。这是默认值。用 &#x2F;-C 来</span><br><span class="line">              禁用分隔符显示。</span><br><span class="line">  &#x2F;D          跟宽式相同，但文件是按栏分类列出的。</span><br><span class="line">  &#x2F;L          用小写。</span><br><span class="line">  &#x2F;N          新的长列表格式，其中文件名在最右边。</span><br><span class="line">  &#x2F;O          用分类顺序列出文件。</span><br><span class="line">  排列顺序     N  按名称(字母顺序)     S  按大小(从小到大)</span><br><span class="line">               E  按扩展名(字母顺序)   D  按日期&#x2F;时间(从先到后)</span><br><span class="line">               G  组目录优先           -  反转顺序的前缀</span><br><span class="line">  &#x2F;P          在每个信息屏幕后暂停。</span><br><span class="line">  &#x2F;Q          显示文件所有者。</span><br><span class="line">  &#x2F;R          显示文件的备用数据流。</span><br><span class="line">  &#x2F;S          显示指定目录和所有子目录中的文件。</span><br><span class="line">  &#x2F;T          控制显示或用来分类的时间字符域</span><br><span class="line">  时间段      C  创建时间</span><br><span class="line">              A  上次访问时间</span><br><span class="line">              W  上次写入的时间</span><br><span class="line">  &#x2F;W          用宽列表格式。</span><br><span class="line">  &#x2F;X          显示为非 8dot3 文件名产生的短名称。格式是 &#x2F;N 的格式，</span><br><span class="line">              短名称插在长名称前面。如果没有短名称，在其位置则</span><br><span class="line">              显示空白。</span><br><span class="line">  &#x2F;4          以四位数字显示年份</span><br><span class="line"></span><br><span class="line">可以在 DIRCMD 环境变量中预先设定开关。通过添加前缀 - (破折号)</span><br><span class="line">来替代预先设定的开关。例如，&#x2F;-W。</span><br></pre></td></tr></table></figure>
-<h2 id="批处理"><a href="#批处理" class="headerlink" title="批处理"></a>批处理</h2><p><a target="_blank" rel="noopener" href="https://baike.so.com/doc/3361951-3539709.html">批处理</a>(Batch)，就是对某对象进行批量的处理。批处理文件的扩展名为bat 。​批处理（Batch）实际上是一种简化的<a target="_blank" rel="noopener" href="https://baike.so.com/doc/2874347-3033293.html#2874347-3033293-1">脚本语言</a>，也称作宏，它应用于DOS和Windows系统中，它是由DOS或者Windows系统内嵌的命令解释器（通常是COMMAND.COM或者CMD.EXE）解释运行。类似于Unix中的Shell脚本。批处理文件具有.bat或者.cmd的扩展名，其最简单的例子，是逐行书写在命令行中会用到的各种命令。更复杂的情况，需要使用if，for，goto等命令控制程序的运行过程，如同C，Basic等高级语言一样。如果需要实现更复杂的应用，利用外部程序是必要的，这包括系统本身提供的外部命令和第三方提供的工具或者软件。批处理程序虽然是在命令行环境中运行，但不仅仅能使用命令行软件，任何32位的Windows程序都可以放在批处理文件中运行。</p>
+<h3 id="XCOPY命令"><a href="#XCOPY命令" class="headerlink" title="XCOPY命令"></a>XCOPY命令</h3><p>XCOPY命令的使用方法：</p>
+<figure class="highlight plain"><figcaption><span>[CMD XCOPY 命令]</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\dell&gt;xcopy &#x2F;?</span><br><span class="line">复制文件和目录树。</span><br><span class="line"></span><br><span class="line">XCOPY source [destination] [&#x2F;A | &#x2F;M] [&#x2F;D[:date]] [&#x2F;P] [&#x2F;S [&#x2F;E]] [&#x2F;V] [&#x2F;W]</span><br><span class="line">                           [&#x2F;C] [&#x2F;I] [&#x2F;Q] [&#x2F;F] [&#x2F;L] [&#x2F;G] [&#x2F;H] [&#x2F;R] [&#x2F;T] [&#x2F;U]</span><br><span class="line">                           [&#x2F;K] [&#x2F;N] [&#x2F;O] [&#x2F;X] [&#x2F;Y] [&#x2F;-Y] [&#x2F;Z] [&#x2F;B] [&#x2F;J]</span><br><span class="line">                           [&#x2F;EXCLUDE:file1[+file2][+file3]...] [&#x2F;COMPRESS]</span><br><span class="line"></span><br><span class="line">  source       指定要复制的文件。</span><br><span class="line">  destination  指定新文件的位置和&#x2F;或名称。</span><br><span class="line">  &#x2F;A           仅复制有存档属性集的文件，</span><br><span class="line">               但不更改属性。</span><br><span class="line">  &#x2F;M           仅复制有存档属性集的文件，</span><br><span class="line">               并关闭存档属性。</span><br><span class="line">  &#x2F;D:m-d-y     复制在指定日期或指定日期以后更改的文件。</span><br><span class="line">               如果没有提供日期，则只复制</span><br><span class="line">               源时间比目标时间新的文件。</span><br><span class="line">  &#x2F;EXCLUDE:file1[+file2][+file3]...</span><br><span class="line">               指定含有字符串的文件列表。每个字符串</span><br><span class="line">               在文件中应位于单独的一行。如果任何</span><br><span class="line">               字符串与复制文件的绝对路径的任何部分相符，</span><br><span class="line">               则排除复制该文件。例如，</span><br><span class="line">               指定如 \obj\ 或 .obj 的字符串会分别</span><br><span class="line">               排除目录 obj 下面的所有文件或带有</span><br><span class="line">               .obj 扩展名的所有文件。</span><br><span class="line">  &#x2F;P           创建每个目标文件之前均进行提示。</span><br><span class="line">  &#x2F;S           复制目录和子目录，不包括空目录。</span><br><span class="line">  &#x2F;E           复制目录和子目录，包括空目录。</span><br><span class="line">               与 &#x2F;S &#x2F;E 相同。可以用来修改 &#x2F;T。</span><br><span class="line">  &#x2F;V           验证每个新文件的大小。</span><br><span class="line">  &#x2F;W           提示在复制前按键。</span><br><span class="line">  &#x2F;C           即使有错误，也继续复制。</span><br><span class="line">  &#x2F;I           如果目标不存在，且要复制多个文件，</span><br><span class="line">               则假定目标必须是目录。</span><br><span class="line">  &#x2F;Q           复制时不显示文件名。</span><br><span class="line">  &#x2F;F           复制时显示完整的源文件名和目标文件名。</span><br><span class="line">  &#x2F;L           显示要复制的文件。</span><br><span class="line">  &#x2F;G           允许将加密文件复制到</span><br><span class="line">               不支持加密的目标。</span><br><span class="line">  &#x2F;H           隐藏文件和系统文件也会复制。</span><br><span class="line">  &#x2F;R           覆盖只读文件。</span><br><span class="line">  &#x2F;T           创建目录结构，但不复制文件。不</span><br><span class="line">               包括空目录或子目录。&#x2F;T &#x2F;E 包括</span><br><span class="line">               空目录和子目录。</span><br><span class="line">  &#x2F;U           只复制已经存在于目标中的文件。</span><br><span class="line">  &#x2F;K           复制属性。一般的 Xcopy 会重置只读属性。</span><br><span class="line">  &#x2F;N           用生成的短名称复制。</span><br><span class="line">  &#x2F;O           复制文件所有权和 ACL 信息。</span><br><span class="line">  &#x2F;X           复制文件审核设置(隐含 &#x2F;O)。</span><br><span class="line">  &#x2F;Y           取消提示以确认要覆盖</span><br><span class="line">               现有目标文件。</span><br><span class="line">  &#x2F;-Y          触发提示，以确认要覆盖</span><br><span class="line">               现有目标文件。</span><br><span class="line">  &#x2F;Z           在可重新启动模式下复制网络文件。</span><br><span class="line">  &#x2F;B           复制符号链接本身与链接目标。</span><br><span class="line">  &#x2F;J           复制时不使用缓冲的 I&#x2F;O。推荐复制大文件时使用。</span><br><span class="line">  &#x2F;COMPRESS    如果适用，在传输期间请求网络</span><br><span class="line">               压缩。</span><br><span class="line"></span><br><span class="line">开关 &#x2F;Y 可以预先在 COPYCMD 环境变量中设置。</span><br><span class="line">这可能被命令行上的 &#x2F;-Y 覆盖。</span><br></pre></td></tr></table></figure>
+<h2 id="批处理"><a href="#批处理" class="headerlink" title="批处理"></a>批处理</h2><p><a target="_blank" rel="noopener" href="https://baike.so.com/doc/3361951-3539709.html">批处理</a>(Batch)，就是对某对象进行批量的处理。批处理文件的扩展名为bat 。​批处理（Batch）实际上是一种简化的<a target="_blank" rel="noopener" href="https://baike.so.com/doc/2874347-3033293.html#2874347-3033293-1">脚本语言</a>，也称作宏，它应用于DOS和Windows系统中，它是由DOS或者Windows系统内嵌的命令解释器（通常是COMMAND.COM或者CMD.EXE）解释运行。类似于Unix中的Shell脚本。批处理文件具有.bat或者.cmd的扩展名，其最简单的例子，是逐行书写在命令行中会用到的各种命令。更复杂的情况，需要使用 if，for，goto等命令控制程序的运行过程，如同C，Basic等高级语言一样。如果需要实现更复杂的应用，利用外部程序是必要的，这包括系统本身提供的外部命令和第三方提供的工具或者软件。批处理程序虽然是在命令行环境中运行，但不仅仅能使用命令行软件，任何32位的Windows程序都可以放在批处理文件中运行。</p>
 <p><strong>批处理特点：</strong></p>
 <ol>
 <li>批处理在计算机安全攻防中，是必要技能，黑客一般都懂DOS命令即批处理命令，例如：<code>ping</code>，<code>ipconfig /all</code>，<code>net</code>，<code>telnet</code>，etc. </li>
@@ -586,7 +600,7 @@
 <tr>
 <td>%CMDCMDLINE%</td>
 <td>本地</td>
-<td>返回用来启动当前的 Cmd.exe 的准确命令行</td>
+<td>返回用来启动当前的 cmd.exe 的准确命令行</td>
 </tr>
 <tr>
 <td>%CMDEXTVERSION%</td>
@@ -646,7 +660,7 @@
 <tr>
 <td>%PATH%</td>
 <td>系统</td>
-<td>指定可执行文件的搜索路径。也就是在这些目录下的可执行文件 （不仅仅是.exe，可以用 echo %PATHEXT% 查看哪些属于可执行文件。）可以直接在开始–&gt;运行里直接执行，当然也可以在命令提示符、批处理中直接执行。例如记事本文件位于 C:\WINDOWS\NOTEPAD.EXE ，那么我们点击 “开始–&gt;运行，输入 NOTEPAD “ 就可以打开记事本了。或者我们打开 CMD 窗口 ，直接输入 NOTEPAD 也可以打开记事本</td>
+<td>指定可执行文件的搜索路径。也就是在这些目录下的可执行文件 （不仅仅是.exe，可以用 <code>echo</code> <code>%PATHEXT%</code> 查看哪些属于可执行文件。）可以直接在开始–&gt;运行里直接执行，当然也可以在命令提示符、批处理中直接执行。例如记事本文件位于 C:\WINDOWS\NOTEPAD.EXE ，那么我们点击 “开始–&gt;运行，输入 NOTEPAD “ 就可以打开记事本了。或者我们打开 CMD 窗口 ，直接输入 NOTEPAD 也可以打开记事本。</td>
 </tr>
 <tr>
 <td>%PATHEXT%</td>
@@ -676,7 +690,7 @@
 <tr>
 <td>%PROMPT%</td>
 <td>本地</td>
-<td>返回当前解释程序的命令提示符设置。由 Cmd.exe 生成。</td>
+<td>返回当前解释程序的命令提示符设置。由 cmd.exe 生成。</td>
 </tr>
 <tr>
 <td>%RANDOM%</td>
@@ -701,7 +715,7 @@
 <tr>
 <td>%TIME%</td>
 <td>系统</td>
-<td>返回当前时间字符串。使用与 time /t 命令相同的格式</td>
+<td>返回当前时间字符串。使用与 <code>time /t</code> 命令相同的格式</td>
 </tr>
 <tr>
 <td>%USERDOMAIN%</td>
@@ -809,6 +823,14 @@
                             
                                 <a href="/tags/Windows/">
                                     <span class="chip bg-color">Windows</span>
+                                </a>
+                            
+                                <a href="/tags/%E6%89%B9%E5%A4%84%E7%90%86/">
+                                    <span class="chip bg-color">批处理</span>
+                                </a>
+                            
+                                <a href="/tags/batch/">
+                                    <span class="chip bg-color">batch</span>
                                 </a>
                             
                         </div>
