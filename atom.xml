@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-03-14T02:20:11.686Z</updated>
+  <updated>2021-03-14T09:05:43.264Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机网络学习笔记</title>
+    <link href="https://cuiyi123.github.io/posts/c7f5.html"/>
+    <id>https://cuiyi123.github.io/posts/c7f5.html</id>
+    <published>2021-03-14T07:58:52.000Z</published>
+    <updated>2021-03-14T09:05:43.264Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="网络" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="计算机" scheme="https://cuiyi123.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="网络" scheme="https://cuiyi123.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="Internet" scheme="https://cuiyi123.github.io/tags/Internet/"/>
+    
+    <category term="互联网" scheme="https://cuiyi123.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+  </entry>
   
   <entry>
     <title>人际关系与交换关系</title>
@@ -634,33 +667,6 @@
     <category term="手机照片" scheme="https://cuiyi123.github.io/tags/%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87/"/>
     
     <category term="生活" scheme="https://cuiyi123.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>蓝奏云</title>
-    <link href="https://cuiyi123.github.io/posts/b729.html"/>
-    <id>https://cuiyi123.github.io/posts/b729.html</id>
-    <published>2020-06-14T06:01:51.000Z</published>
-    <updated>2021-02-17T01:15:40.699Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;发现一提供云储存服务的新网站：&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="网盘" scheme="https://cuiyi123.github.io/categories/%E7%BD%91%E7%9B%98/"/>
-    
-    
-    <category term="云储存" scheme="https://cuiyi123.github.io/tags/%E4%BA%91%E5%82%A8%E5%AD%98/"/>
-    
-    <category term="网盘" scheme="https://cuiyi123.github.io/tags/%E7%BD%91%E7%9B%98/"/>
     
   </entry>
   
