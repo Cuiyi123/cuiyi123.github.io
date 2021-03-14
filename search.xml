@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>计算机网络学习笔记</title>
+      <link href="posts/c7f5.html"/>
+      <url>posts/c7f5.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><ol><li><strong>计算机网络</strong>由若干结点（node）和连接这些结点的链路（link）组成。</li><li>网络中的<strong>结点</strong>可以是计算机、集线器、交换机或路由器等。</li><li>与网络相连的计算机通常成为<strong>主机</strong>（host）。</li><li><strong>Internet（互联网或因特网）</strong>指当前全球最大的、开放的、由众多网络相连而成的特定互连网，它采用 TCP/IP 协议族作为通信规则。</li><li><strong>ISP</strong>是Internet Service Provider的缩写，即Internet服务供应商。</li><li>客户-服务器（server）通信方式中，<strong>客户是服务请求方，服务器是服务提供方</strong>。</li><li><strong>路由器</strong>（router）是一种专用通信设备，能实现分组交换。</li><li>计算机网络的常用性能指标有：速率、带宽、时延等。<h3 id="计算机网络的类别："><a href="#计算机网络的类别：" class="headerlink" title="计算机网络的类别："></a>计算机网络的类别：</h3></li></ol><ul><li>按照网络的作用范围：</li><li>广域网WAN（Wide Area Network）</li><li>城域网</li><li>局域网LAN（Local Area Network）</li><li>个人区域网</li><li>按照网络的使用者：</li><li>公用网（public network）</li><li>专用网（private network）</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 网络 </tag>
+            
+            <tag> Internet </tag>
+            
+            <tag> 互联网 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>人际关系与交换关系</title>
       <link href="posts/5a5f.html"/>
       <url>posts/5a5f.html</url>
