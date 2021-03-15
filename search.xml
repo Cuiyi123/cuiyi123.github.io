@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>宫词（顾况）</title>
+      <link href="posts/7dd9.html"/>
+      <url>posts/7dd9.html</url>
+      
+        <content type="html"><![CDATA[<p><center><font size="5" face="楷体">玉楼天半起笙歌，风送宫嫔笑语和<sup>(1)</sup>。<br>月殿影开闻夜漏<sup>(2)</sup>，水精帘卷近秋河<sup>(3)</sup>。</font></center></p><hr><p><strong>注释</strong></p><p>  (1)和：这里是喧闹的意思。<br>  (2)闻夜漏：半夜里听到漏滴水声。<br>  (3)秋河：银河。  </p><hr><h3 id="评析"><a href="#评析" class="headerlink" title="评析"></a>评析</h3><blockquote><p>本诗是一首宫怨诗。本诗采用对比的手法，表达失宠宫人的哀怨之情。前两句虚写，是失宠宫人所闻所想：仙境般的宫楼上，响起阵阵笙歌；清风传送出宫女们欢笑热闹的声音，渲染出喧闹的氛围。后两句实写：失宠的宫人独自一人被幽禁，听着漏滴的水声，仰望一片苍茫的星空。这两句诗境幽静，与前两句喧闹的境界格格不入，但诗人正是通过这种动静的对比，突显出失宠宫人的孤寂、哀愁不言而喻。</p></blockquote><hr><p><strong>参考书籍：</strong>《唐诗三百首•宋词三百首•元曲三百首》</p><p><em>本文章仅供个人学习、研究或者欣赏所用。</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文学 </category>
+          
+          <category> 唐诗 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文学 </tag>
+            
+            <tag> 唐诗 </tag>
+            
+            <tag> 唐诗鉴赏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>计算机网络学习笔记</title>
       <link href="posts/c7f5.html"/>
       <url>posts/c7f5.html</url>
@@ -109,7 +140,7 @@
       <link href="posts/8cd3.html"/>
       <url>posts/8cd3.html</url>
       
-        <content type="html"><![CDATA[<h2 id="Markdown简介及基础语法"><a href="#Markdown简介及基础语法" class="headerlink" title="Markdown简介及基础语法"></a>Markdown简介及基础语法</h2><p><a href="https://baike.so.com/doc/6949586-7171987.html">Markdown</a>是一种纯文本格式的标记语言，且是<a href="https://baike.so.com/doc/30042247-31652444.html">轻量级标记语言</a>。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p><p>Markdown文件后缀名：.md, .markdown </p><h2 id="轻量级标记语言的特点及用途"><a href="#轻量级标记语言的特点及用途" class="headerlink" title="轻量级标记语言的特点及用途"></a>轻量级标记语言的特点及用途</h2><ul><li>格式简单，源文件容易阅读和编辑。适合撰写笔记，使作者的注意力集中于撰写内容而非形式;</li><li>纯文本有跨平台特性，适合网络传播。例如维基百科使用的MediaWiki语言就是轻量级标记语言的一种。</li><li>采用轻量级标记语言的文档很容易转换为更重量级的其他文档，例如 PDF/Tex/HTML等，被很多软件网站用来制作文档，例如python的官方文档采用reStructuredText语言。</li><li>应用程序中使用轻量级标记语言的一个目的是使得用户能够像阅读编译后的结果一样阅读原始文档，比如当用户下载了一个软件库，那么会更期望在文本编辑器中阅读而不是打开浏览器阅读。</li><li>另外一个应用场景是网络出版，例如在博客和wiki，输入界面通常是一个简单的文本框，服务器软件会把输入转换为通常的的文档标记语言，如HTML或XHTML。</li></ul><h2 id="Markdown基础语法"><a href="#Markdown基础语法" class="headerlink" title="Markdown基础语法"></a>Markdown基础语法</h2><table><thead><tr><th>命令名称</th><th>命令标记</th><th>示例</th></tr></thead><tbody><tr><td>一级标题</td><td><code># </code></td><td>略</td></tr><tr><td>二级标题</td><td><code>## </code></td><td>略</td></tr><tr><td>三级标题</td><td><code>### </code></td><td>略</td></tr><tr><td>四级标题</td><td><code>#### </code></td><td>略</td></tr><tr><td>五级标题</td><td><code>##### </code></td><td>略</td></tr><tr><td>六级标题</td><td><code>###### </code></td><td>略</td></tr><tr><td>字体加粗</td><td><code>**</code>content<code>**</code></td><td><strong>加粗内容</strong></td></tr><tr><td>字体斜体</td><td><code>*</code>content<code>*</code></td><td><em>倾斜内容</em></td></tr><tr><td>字体下划线</td><td><code>&lt;u&gt;</code> content <code>&lt;/u&gt;</code></td><td><u>关键因素</u></td></tr></tbody></table><hr><p>参考链接：</p><ol><li><a href="https://baike.so.com/doc/6949586-7171987.html">https://baike.so.com/doc/6949586-7171987.html</a></li><li><a href="https://baike.so.com/doc/30042247-31652444.html">https://baike.so.com/doc/30042247-31652444.html</a></li><li><a href="https://islu.cn/posts/40652.html">Markdown基础语法</a>-作者：卢慧军</li></ol><p><em>本文章仅供个人学习、研究或者欣赏所用。</em></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="Markdown简介及基础语法"><a href="#Markdown简介及基础语法" class="headerlink" title="Markdown简介及基础语法"></a>Markdown简介及基础语法</h2><p><a href="https://baike.so.com/doc/6949586-7171987.html">Markdown</a>是一种纯文本格式的标记语言，且是<a href="https://baike.so.com/doc/30042247-31652444.html">轻量级标记语言</a>。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p><p>Markdown文件后缀名：.md, .markdown </p><h2 id="轻量级标记语言的特点及用途"><a href="#轻量级标记语言的特点及用途" class="headerlink" title="轻量级标记语言的特点及用途"></a>轻量级标记语言的特点及用途</h2><ul><li>格式简单，源文件容易阅读和编辑。适合撰写笔记，使作者的注意力集中于撰写内容而非形式;</li><li>纯文本有跨平台特性，适合网络传播。例如维基百科使用的MediaWiki语言就是轻量级标记语言的一种。</li><li>采用轻量级标记语言的文档很容易转换为更重量级的其他文档，例如 PDF/Tex/HTML等，被很多软件网站用来制作文档，例如python的官方文档采用reStructuredText语言。</li><li>应用程序中使用轻量级标记语言的一个目的是使得用户能够像阅读编译后的结果一样阅读原始文档，比如当用户下载了一个软件库，那么会更期望在文本编辑器中阅读而不是打开浏览器阅读。</li><li>另外一个应用场景是网络出版，例如在博客和wiki，输入界面通常是一个简单的文本框，服务器软件会把输入转换为通常的的文档标记语言，如HTML或XHTML。</li></ul><h2 id="Markdown基础语法"><a href="#Markdown基础语法" class="headerlink" title="Markdown基础语法"></a>Markdown基础语法</h2><table><thead><tr><th>命令名称</th><th>命令标记</th><th>示例</th></tr></thead><tbody><tr><td>一级标题</td><td><code># </code></td><td>略</td></tr><tr><td>二级标题</td><td><code>## </code></td><td>略</td></tr><tr><td>三级标题</td><td><code>### </code></td><td>略</td></tr><tr><td>四级标题</td><td><code>#### </code></td><td>略</td></tr><tr><td>五级标题</td><td><code>##### </code></td><td>略</td></tr><tr><td>六级标题</td><td><code>###### </code></td><td>略</td></tr><tr><td>字体加粗</td><td><code>**</code>content<code>**</code></td><td><strong>加粗内容</strong></td></tr><tr><td>字体斜体</td><td><code>*</code>content<code>*</code></td><td><em>倾斜内容</em></td></tr><tr><td>字体下划线</td><td><code>&lt;u&gt;</code> content <code>&lt;/u&gt;</code></td><td><u>关键因素</u></td></tr><tr><td>块引用（blockquotes）</td><td><code>&gt; </code>content</td><td>略</td></tr><tr><td>无序列表</td><td><code>- </code> item</td><td>略</td></tr><tr><td>有序列表</td><td><code>1. </code> item</td><td>略</td></tr></tbody></table><hr><p>参考链接：</p><ol><li><a href="https://baike.so.com/doc/6949586-7171987.html">https://baike.so.com/doc/6949586-7171987.html</a></li><li><a href="https://baike.so.com/doc/30042247-31652444.html">https://baike.so.com/doc/30042247-31652444.html</a></li><li><a href="https://islu.cn/posts/40652.html">Markdown基础语法</a>-作者：卢慧军</li></ol><p><em>本文章仅供个人学习、研究或者欣赏所用。</em></p>]]></content>
       
       
       <categories>
