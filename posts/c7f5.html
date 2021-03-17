@@ -480,7 +480,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2021-03-16
+                    2021-03-17
                 </div>
                 
 
@@ -528,7 +528,7 @@
 </li>
 <li><p>五层协议的体系结构：<br>（5）应用层<br>（4）运输层<br>（3）网络层（或网际层）<br>（2）数据链路层<br>（1）物理层  </p>
 </li>
-<li><p>运输层最重要的协议是 TCP 和 UDP 协议。  </p>
+<li><p>运输层最重要的协议是 <strong>TCP</strong> 和 <strong>UDP</strong> 协议。  </p>
 </li>
 <li><p>网络层最重要的协议是 IP 协议。  </p>
 </li>
@@ -566,8 +566,35 @@
 <li>光纤同轴混合网 HFC （在有线电视网的基础上开发的）</li>
 <li>FTTx （即光纤到……）</li>
 </ul>
+<h2 id="数据链路层"><a href="#数据链路层" class="headerlink" title="数据链路层"></a>数据链路层</h2><p><strong>链路</strong>是一个结点到相邻结点的一段物理线路，<strong>数据链路</strong>则是在链路的基础上增加了一些必要的硬件（如<strong>网络适配器</strong>）和软件（如协议的实现）。</p>
+<p>数据链路层使用的信道主要有<strong>点对点信道</strong>和<strong>广播信道</strong>。</p>
+<p>数据链路层传送的协议数据单元是<strong>帧</strong>。</p>
+<p>数据链路层的三个基本问题：封装成帧、透明传输和差错检测。</p>
+<p><strong>点对点协议（Point-to-Point Protocol）</strong>则是目前使用最广泛的数据链路层协议。</p>
+<p>PPPoE 是为宽带上网的主机使用的链路层协议。</p>
+<p>局域网的优点：具有广播功能，从一个站点可以很方便地访问全网；便于系统地扩展和逐渐演变；提高了系统的可靠性、可用性和生存性。</p>
+<p>IEEE 802 委员会曾把局域网的数据链路层拆成两个子层，即逻辑链路层（LLC）子层（与传输媒体无关）和<strong>媒体接入控制（MAC）</strong>子层（与传输媒体有关）。</p>
+<p>计算机与外界局域网的通信要通过通信适配器（或**<a target="_blank" rel="noopener" href="https://baike.so.com/doc/5410975-5649070.html">网络适配器</a><strong>），它又称为网络接口卡或</strong>网卡**。计算机的硬件地址就在适配器的 ROM 中。</p>
+<p><strong>以太网的硬件地址（物理地址），即 MAC 地址实际上就是适配器地址或适配器标识符</strong>，与主机所在的地点无关。源地址和目的地址都是48位长。</p>
+<p>以太网的适配器有过滤功能，它只接受单播帧、广播帧或多播帧。</p>
+<h2 id="网络层"><a href="#网络层" class="headerlink" title="网络层"></a>网络层</h2><h3 id="网络层提供的两种服务"><a href="#网络层提供的两种服务" class="headerlink" title="网络层提供的两种服务"></a>网络层提供的两种服务</h3><p>互联网采用的设计思路是这样的：<strong>网络层向上只提供简单灵活的、无连接的、尽最大努力交付的数据报服务。</strong></p>
+<p>网络层提供的两种服务：<strong>虚电路服务</strong>和<strong>数据报服务</strong></p>
+<p>进程间的可靠性由运输层负责。</p>
+<h3 id="网际协议IP"><a href="#网际协议IP" class="headerlink" title="网际协议IP"></a>网际协议IP</h3><p>网际协议 <strong>IP</strong> 是 <strong>TCP/IP</strong> 体系中两个最主要的协议之一。这里所说的 IP 其实就是 IP 的第4个版本，记为 <strong>IPv4</strong>。较新版本是 <strong>IPv6</strong>。</p>
+<h4 id="虚拟互连网络"><a href="#虚拟互连网络" class="headerlink" title="虚拟互连网络"></a>虚拟互连网络</h4><p>将网络互相连接起来需要使用一些<strong>中间设备</strong>。根据中间设备所在的层次，可以有以下四种不同的中间设备：</p>
+<ol>
+<li>物理层使用的中间设备叫做<strong>转发器（repeater）</strong></li>
+<li>数据链路层使用的中间设备叫做<strong>网桥</strong>或桥接器<strong>（bridge）</strong></li>
+<li>网络层使用的中间设备叫做<strong>路由器（router）</strong></li>
+<li>在网络层以上使用的中间设备叫<strong>网关（gateway）</strong></li>
+</ol>
+<p>计算机网络通过一些路由器进行互连。由于参加互连的计算机网络都使用相同的<strong>网际协议 IP （Internet Protocol）</strong>，因此可以把互连以后的计算机网络看成一个<strong>虚拟互连网络（internet）</strong>。虚拟互连网络也就是逻辑互连网络。</p>
 <hr>
-<p><strong>参考书籍：</strong>谢希仁.《计算机网络》.北京：电子工业出版社，2017.</p>
+<p><strong>参考书籍：</strong>谢希仁.《计算机网络》.北京：电子工业出版社，2017.  </p>
+<p><strong>参考链接：</strong></p>
+<ol>
+<li><a target="_blank" rel="noopener" href="https://baike.so.com/doc/5410975-5649070.html">https://baike.so.com/doc/5410975-5649070.html</a></li>
+</ol>
 <p><em>本文章仅供个人学习、研究或者欣赏所用。</em></p>
 
                 
