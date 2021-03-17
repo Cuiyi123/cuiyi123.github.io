@@ -528,7 +528,7 @@
 </li>
 <li><p>五层协议的体系结构：<br>（5）应用层<br>（4）运输层<br>（3）网络层（或网际层）<br>（2）数据链路层<br>（1）物理层  </p>
 </li>
-<li><p>运输层最重要的协议是 TCP 和 UDP 协议。  </p>
+<li><p>运输层最重要的协议是 <strong>TCP</strong> 和 <strong>UDP</strong> 协议。  </p>
 </li>
 <li><p>网络层最重要的协议是 IP 协议。  </p>
 </li>
@@ -577,6 +577,18 @@
 <p>计算机与外界局域网的通信要通过通信适配器（或**<a target="_blank" rel="noopener" href="https://baike.so.com/doc/5410975-5649070.html">网络适配器</a><strong>），它又称为网络接口卡或</strong>网卡**。计算机的硬件地址就在适配器的 ROM 中。</p>
 <p><strong>以太网的硬件地址（物理地址），即 MAC 地址实际上就是适配器地址或适配器标识符</strong>，与主机所在的地点无关。源地址和目的地址都是48位长。</p>
 <p>以太网的适配器有过滤功能，它只接受单播帧、广播帧或多播帧。</p>
+<h2 id="网络层"><a href="#网络层" class="headerlink" title="网络层"></a>网络层</h2><h3 id="网络层提供的两种服务"><a href="#网络层提供的两种服务" class="headerlink" title="网络层提供的两种服务"></a>网络层提供的两种服务</h3><p>互联网采用的设计思路是这样的：<strong>网络层向上只提供简单灵活的、无连接的、尽最大努力交付的数据报服务。</strong></p>
+<p>网络层提供的两种服务：<strong>虚电路服务</strong>和<strong>数据报服务</strong></p>
+<p>进程间的可靠性由运输层负责。</p>
+<h3 id="网际协议IP"><a href="#网际协议IP" class="headerlink" title="网际协议IP"></a>网际协议IP</h3><p>网际协议 <strong>IP</strong> 是 <strong>TCP/IP</strong> 体系中两个最主要的协议之一。这里所说的 IP 其实就是 IP 的第4个版本，记为 <strong>IPv4</strong>。较新版本是 <strong>IPv6</strong>。</p>
+<h4 id="虚拟互连网络"><a href="#虚拟互连网络" class="headerlink" title="虚拟互连网络"></a>虚拟互连网络</h4><p>将网络互相连接起来需要使用一些<strong>中间设备</strong>。根据中间设备所在的层次，可以有以下四种不同的中间设备：</p>
+<ol>
+<li>物理层使用的中间设备叫做<strong>转发器（repeater）</strong></li>
+<li>数据链路层使用的中间设备叫做<strong>网桥</strong>或桥接器<strong>（bridge）</strong></li>
+<li>网络层使用的中间设备叫做<strong>路由器（router）</strong></li>
+<li>在网络层以上使用的中间设备叫<strong>网关（gateway）</strong></li>
+</ol>
+<p>计算机网络通过一些路由器进行互连。由于参加互连的计算机网络都使用相同的<strong>网际协议 IP （Internet Protocol）</strong>，因此可以把互连以后的计算机网络看成一个<strong>虚拟互连网络（internet）</strong>。虚拟互连网络也就是逻辑互连网络。</p>
 <hr>
 <p><strong>参考书籍：</strong>谢希仁.《计算机网络》.北京：电子工业出版社，2017.  </p>
 <p><strong>参考链接：</strong></p>
