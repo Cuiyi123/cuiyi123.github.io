@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-03-15T12:06:25.102Z</updated>
+  <updated>2021-03-27T10:33:42.896Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《了不起的盖茨比》简介</title>
+    <link href="https://cuiyi123.github.io/posts/201d.html"/>
+    <id>https://cuiyi123.github.io/posts/201d.html</id>
+    <published>2021-03-27T10:31:22.000Z</published>
+    <updated>2021-03-27T10:33:42.896Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;《了不起的盖茨比》简介&quot;&gt;&lt;a href=&quot;#《了不起的盖茨比》简介&quot; class=&quot;headerlink&quot; title=&quot;《了不起的盖茨比》简介&quot;&gt;&lt;/a&gt;《了不起的盖茨比》简介&lt;/h2&gt;&lt;blockquote&gt;
+&lt;h3 id=&quot;内容简介&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="文学" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="小说" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+    <category term="文学" scheme="https://cuiyi123.github.io/tags/%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="小说" scheme="https://cuiyi123.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="了不起的盖茨比" scheme="https://cuiyi123.github.io/tags/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E7%9B%96%E8%8C%A8%E6%AF%94/"/>
+    
+  </entry>
   
   <entry>
     <title>宫词（顾况）</title>
@@ -642,35 +674,6 @@
     <category term="帮助" scheme="https://cuiyi123.github.io/tags/%E5%B8%AE%E5%8A%A9/"/>
     
     <category term="help" scheme="https://cuiyi123.github.io/tags/help/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>NTFS文件链接</title>
-    <link href="https://cuiyi123.github.io/posts/1828.html"/>
-    <id>https://cuiyi123.github.io/posts/1828.html</id>
-    <published>2020-09-05T05:50:31.000Z</published>
-    <updated>2021-02-17T01:15:40.670Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;创建符号链接（Symbolic Link）的方法是在目标文件夹下，复制路径，用命令行工具CMD中DIR命令，打开目标文件夹路径，再使用mklink命令工具。&lt;br&gt;Mklink LinkFileName.(txt) D:\Filename.txt&lt;br&gt;其中</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://cuiyi123.github.io/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://cuiyi123.github.io/tags/Windows/"/>
-    
-    <category term="Symbolic Link" scheme="https://cuiyi123.github.io/tags/Symbolic-Link/"/>
-    
-    <category term="符号链接" scheme="https://cuiyi123.github.io/tags/%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5/"/>
     
   </entry>
   
