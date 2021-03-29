@@ -308,6 +308,19 @@
 </header>
 
     
+<script src="/libs/cryptojs/crypto-js.min.js"></script>
+<script>
+    (function() {
+        let pwd = '';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
+</script>
+
 
 
 
@@ -741,18 +754,17 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="far fa-dot-circle"></i>&nbsp;本篇
-            </div>
+                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/posts/201d.html">
+                <a href="/posts/e365.html">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="《了不起的盖茨比》简介">
+                        <img src="/medias/featureimages/17.jpg" class="responsive-img" alt="福尔摩斯探案全集英文PDF下载">
                         
-                        <span class="card-title">《了不起的盖茨比》简介</span>
+                        <span class="card-title">福尔摩斯探案全集英文PDF下载</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -762,39 +774,54 @@
                         
                     </div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2021-03-27
-                            </span>
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2021-03-29
+                        </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E6%96%87%E5%AD%A6/" class="post-category">
-                                    文学
+                            <a href="/categories/%E5%B0%8F%E8%AF%B4/" class="post-category">
+                                    小说
                                 </a>
                             
-                            <a href="/categories/%E6%96%87%E5%AD%A6/%E5%B0%8F%E8%AF%B4/" class="post-category">
-                                    小说
+                            <a href="/categories/%E5%B0%8F%E8%AF%B4/%E4%BE%A6%E6%8E%A2%E5%B0%8F%E8%AF%B4/" class="post-category">
+                                    侦探小说
+                                </a>
+                            
+                            <a href="/categories/%E4%B8%8B%E8%BD%BD/" class="post-category">
+                                    下载
+                                </a>
+                            
+                            <a href="/categories/%E4%B8%8B%E8%BD%BD/%E7%94%B5%E5%AD%90%E4%B9%A6/" class="post-category">
+                                    电子书
                                 </a>
                             
                             
                         </span>
                     </div>
                 </div>
-
                 
                 <div class="card-action article-tags">
-                    
-                    <a href="/tags/%E6%96%87%E5%AD%A6/">
-                        <span class="chip bg-color">文学</span>
-                    </a>
                     
                     <a href="/tags/%E5%B0%8F%E8%AF%B4/">
                         <span class="chip bg-color">小说</span>
                     </a>
                     
-                    <a href="/tags/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E7%9B%96%E8%8C%A8%E6%AF%94/">
-                        <span class="chip bg-color">了不起的盖茨比</span>
+                    <a href="/tags/%E4%BE%A6%E6%8E%A2%E5%B0%8F%E8%AF%B4/">
+                        <span class="chip bg-color">侦探小说</span>
+                    </a>
+                    
+                    <a href="/tags/%E4%B8%8B%E8%BD%BD/">
+                        <span class="chip bg-color">下载</span>
+                    </a>
+                    
+                    <a href="/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/">
+                        <span class="chip bg-color">电子书</span>
+                    </a>
+                    
+                    <a href="/tags/%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF/">
+                        <span class="chip bg-color">福尔摩斯</span>
                     </a>
                     
                 </div>
