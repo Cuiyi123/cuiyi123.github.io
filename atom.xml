@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-03-29T11:35:43.697Z</updated>
+  <updated>2021-03-29T12:28:53.931Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>英语百句学习（一）</title>
+    <link href="https://cuiyi123.github.io/posts/12de.html"/>
+    <id>https://cuiyi123.github.io/posts/12de.html</id>
+    <published>2021-03-29T12:13:14.000Z</published>
+    <updated>2021-03-29T12:28:53.931Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;A is looking at mergers and acquisitions to boost its overseas business. It now plans to open branches in cities including B and</summary>
+        
+      
+    
+    
+    
+    <category term="英语学习" scheme="https://cuiyi123.github.io/categories/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="英语学习" scheme="https://cuiyi123.github.io/tags/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>福尔摩斯探案全集英文PDF下载</title>
     <link href="https://cuiyi123.github.io/posts/e365.html"/>
     <id>https://cuiyi123.github.io/posts/e365.html</id>
     <published>2021-03-29T11:31:42.000Z</published>
-    <updated>2021-03-29T11:35:43.697Z</updated>
+    <updated>2021-03-29T11:38:07.508Z</updated>
     
     
       
@@ -641,38 +667,6 @@
     
     <category term="测试" scheme="https://cuiyi123.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
-    
-    <category term="测试" scheme="https://cuiyi123.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo第一天调试</title>
-    <link href="https://cuiyi123.github.io/posts/8022.html"/>
-    <id>https://cuiyi123.github.io/posts/8022.html</id>
-    <published>2021-02-14T11:27:21.000Z</published>
-    <updated>2021-03-09T11:07:36.247Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;今天第一次使用且安装了Hexo框架搭建的博客网站。设置基本上都是正确的。运行本地站点也是没有问题除了无法打开正式的公网地址，也不知道是什么原因。虽然花了些时间调试，但不是学计算机的，没有什么感觉。&lt;br&gt;无论怎样，本地站点可以运行，感觉还是不错。&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
-    
-    <category term="日志" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%97%A5%E5%BF%97/"/>
-    
-    <category term="测试" scheme="https://cuiyi123.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-    <category term="Hexo" scheme="https://cuiyi123.github.io/tags/Hexo/"/>
     
     <category term="测试" scheme="https://cuiyi123.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
