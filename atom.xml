@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-03-30T12:27:18.763Z</updated>
+  <updated>2021-04-10T13:31:16.860Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>永遇乐（苏轼）-宋词</title>
+    <link href="https://cuiyi123.github.io/posts/16a9.html"/>
+    <id>https://cuiyi123.github.io/posts/16a9.html</id>
+    <published>2021-04-10T12:29:23.000Z</published>
+    <updated>2021-04-10T13:31:16.860Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p style=&quot;font-family: 隶书; font-size: 27px; text-indent: 2em&quot;&gt;明月如霜，好风如水，清景无限。曲港跳鱼，圆荷泻露，寂寞无人见。紞如三鼓，铿然一叶，黯黯梦云惊断。夜茫茫、重寻无处，觉来小园行遍。&lt;/p&gt;
+&lt;p</summary>
+        
+      
+    
+    
+    
+    <category term="文学" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="宋词" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/%E5%AE%8B%E8%AF%8D/"/>
+    
+    
+    <category term="文学" scheme="https://cuiyi123.github.io/tags/%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="宋词" scheme="https://cuiyi123.github.io/tags/%E5%AE%8B%E8%AF%8D/"/>
+    
+    <category term="宋词鉴赏" scheme="https://cuiyi123.github.io/tags/%E5%AE%8B%E8%AF%8D%E9%89%B4%E8%B5%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>英语百句学习（一）</title>
@@ -639,36 +671,6 @@
     <category term="小说" scheme="https://cuiyi123.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
     
     <category term="鲁滨逊漂流记" scheme="https://cuiyi123.github.io/tags/%E9%B2%81%E6%BB%A8%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试如何新建一篇文章</title>
-    <link href="https://cuiyi123.github.io/posts/73dc.html"/>
-    <id>https://cuiyi123.github.io/posts/73dc.html</id>
-    <published>2021-02-15T12:37:06.000Z</published>
-    <updated>2021-03-09T11:06:18.441Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;尝试写一句话“今天外面风很大。”&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
-    
-    <category term="日志" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%97%A5%E5%BF%97/"/>
-    
-    <category term="测试" scheme="https://cuiyi123.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-    <category term="测试" scheme="https://cuiyi123.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
