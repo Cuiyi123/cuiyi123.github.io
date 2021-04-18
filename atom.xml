@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-04-11T02:00:24.889Z</updated>
+  <updated>2021-04-18T09:22:54.505Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Some Popular Websites are blocked in China</title>
+    <link href="https://cuiyi123.github.io/posts/8ef2.html"/>
+    <id>https://cuiyi123.github.io/posts/8ef2.html</id>
+    <published>2021-04-18T08:38:17.000Z</published>
+    <updated>2021-04-18T09:22:54.505Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Recently I tried to go to a website, &lt;a href=&quot;http://www.sparknotes.com/&quot;&gt;SparkNotes&lt;/a&gt; where I need to access some English learning</summary>
+        
+      
+    
+    
+    
+    <category term="essay" scheme="https://cuiyi123.github.io/categories/essay/"/>
+    
+    <category term="log" scheme="https://cuiyi123.github.io/categories/log/"/>
+    
+    
+    <category term="English" scheme="https://cuiyi123.github.io/tags/English/"/>
+    
+    <category term="websites blocked in China" scheme="https://cuiyi123.github.io/tags/websites-blocked-in-China/"/>
+    
+    <category term="Internet Accessibility" scheme="https://cuiyi123.github.io/tags/Internet-Accessibility/"/>
+    
+    <category term="proxy server" scheme="https://cuiyi123.github.io/tags/proxy-server/"/>
+    
+  </entry>
   
   <entry>
     <title>永遇乐（苏轼）-宋词</title>
@@ -639,37 +672,6 @@
     <category term="宋词" scheme="https://cuiyi123.github.io/tags/%E5%AE%8B%E8%AF%8D/"/>
     
     <category term="文学知识" scheme="https://cuiyi123.github.io/tags/%E6%96%87%E5%AD%A6%E7%9F%A5%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《鲁滨逊漂流记》简介</title>
-    <link href="https://cuiyi123.github.io/posts/a67c.html"/>
-    <id>https://cuiyi123.github.io/posts/a67c.html</id>
-    <published>2021-02-16T11:43:11.000Z</published>
-    <updated>2021-02-17T01:15:40.682Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://baike.so.com/doc/5350765-5586221.html&quot;&gt;《鲁滨逊漂流记》&lt;/a&gt;是英国作家&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="文学" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/"/>
-    
-    <category term="小说" scheme="https://cuiyi123.github.io/categories/%E6%96%87%E5%AD%A6/%E5%B0%8F%E8%AF%B4/"/>
-    
-    
-    <category term="文学" scheme="https://cuiyi123.github.io/tags/%E6%96%87%E5%AD%A6/"/>
-    
-    <category term="小说" scheme="https://cuiyi123.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
-    
-    <category term="鲁滨逊漂流记" scheme="https://cuiyi123.github.io/tags/%E9%B2%81%E6%BB%A8%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0/"/>
     
   </entry>
   
