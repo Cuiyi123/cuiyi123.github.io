@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-05-03T02:20:15.310Z</updated>
+  <updated>2021-05-23T04:33:40.662Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows注册表简介</title>
+    <link href="https://cuiyi123.github.io/posts/39f.html"/>
+    <id>https://cuiyi123.github.io/posts/39f.html</id>
+    <published>2021-05-23T04:14:42.000Z</published>
+    <updated>2021-05-23T04:33:40.662Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;注册表&lt;/strong&gt;（Registry），是 Microsoft Windows</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://cuiyi123.github.io/categories/Windows/"/>
+    
+    <category term="注册表" scheme="https://cuiyi123.github.io/categories/Windows/%E6%B3%A8%E5%86%8C%E8%A1%A8/"/>
+    
+    
+    <category term="注册表" scheme="https://cuiyi123.github.io/tags/%E6%B3%A8%E5%86%8C%E8%A1%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>MindFusion XML Viewer</title>
@@ -400,7 +427,7 @@
     <link href="https://cuiyi123.github.io/posts/8cd3.html"/>
     <id>https://cuiyi123.github.io/posts/8cd3.html</id>
     <published>2021-03-07T10:04:20.000Z</published>
-    <updated>2021-03-15T12:05:32.030Z</updated>
+    <updated>2021-05-23T04:43:23.398Z</updated>
     
     
       
@@ -623,35 +650,6 @@
     <category term="World of Tanks Blitz" scheme="https://cuiyi123.github.io/tags/World-of-Tanks-Blitz/"/>
     
     <category term="游戏测评" scheme="https://cuiyi123.github.io/tags/%E6%B8%B8%E6%88%8F%E6%B5%8B%E8%AF%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>游戏坦克世界闪电战简介</title>
-    <link href="https://cuiyi123.github.io/posts/5416.html"/>
-    <id>https://cuiyi123.github.io/posts/5416.html</id>
-    <published>2021-02-21T08:37:20.000Z</published>
-    <updated>2021-02-21T10:00:24.505Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;&lt;a href=&quot;#基本信息&quot; class=&quot;headerlink&quot; title=&quot;基本信息&quot;&gt;&lt;/a&gt;基本信息&lt;/h2&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="游戏" scheme="https://cuiyi123.github.io/categories/%E6%B8%B8%E6%88%8F/"/>
-    
-    
-    <category term="游戏" scheme="https://cuiyi123.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
-    
-    <category term="坦克世界闪电战" scheme="https://cuiyi123.github.io/tags/%E5%9D%A6%E5%85%8B%E4%B8%96%E7%95%8C%E9%97%AA%E7%94%B5%E6%88%98/"/>
-    
-    <category term="World of Tanks Blitz" scheme="https://cuiyi123.github.io/tags/World-of-Tanks-Blitz/"/>
     
   </entry>
   
