@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-05-23T04:44:18.760Z</updated>
+  <updated>2021-06-19T06:34:35.924Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机的基本硬件构成和基础知识</title>
+    <link href="https://cuiyi123.github.io/posts/3cbe.html"/>
+    <id>https://cuiyi123.github.io/posts/3cbe.html</id>
+    <published>2021-06-19T06:23:31.000Z</published>
+    <updated>2021-06-19T06:34:35.924Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;中央处理器（CPU）&quot;&gt;&lt;a href=&quot;#中央处理器（CPU）&quot; class=&quot;headerlink&quot; title=&quot;中央处理器（CPU）&quot;&gt;&lt;/a&gt;中央处理器（CPU）&lt;/h2&gt;&lt;p&gt;CPU（Central Processing</summary>
+        
+      
+    
+    
+    
+    <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="计算机硬件" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6/"/>
+    
+    
+    <category term="计算机硬件" scheme="https://cuiyi123.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6/"/>
+    
+    <category term="计算机基础知识" scheme="https://cuiyi123.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Windows注册表简介</title>
@@ -619,37 +648,6 @@
     <category term="唐诗" scheme="https://cuiyi123.github.io/tags/%E5%94%90%E8%AF%97/"/>
     
     <category term="唐诗鉴赏" scheme="https://cuiyi123.github.io/tags/%E5%94%90%E8%AF%97%E9%89%B4%E8%B5%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>（游戏）坦克世界闪电战测评</title>
-    <link href="https://cuiyi123.github.io/posts/4707.html"/>
-    <id>https://cuiyi123.github.io/posts/4707.html</id>
-    <published>2021-02-21T09:27:35.000Z</published>
-    <updated>2021-02-21T09:43:50.283Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;游戏评论&quot;&gt;&lt;a href=&quot;#游戏评论&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="游戏" scheme="https://cuiyi123.github.io/categories/%E6%B8%B8%E6%88%8F/"/>
-    
-    
-    <category term="游戏" scheme="https://cuiyi123.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
-    
-    <category term="坦克世界闪电战" scheme="https://cuiyi123.github.io/tags/%E5%9D%A6%E5%85%8B%E4%B8%96%E7%95%8C%E9%97%AA%E7%94%B5%E6%88%98/"/>
-    
-    <category term="World of Tanks Blitz" scheme="https://cuiyi123.github.io/tags/World-of-Tanks-Blitz/"/>
-    
-    <category term="游戏测评" scheme="https://cuiyi123.github.io/tags/%E6%B8%B8%E6%88%8F%E6%B5%8B%E8%AF%84/"/>
     
   </entry>
   
