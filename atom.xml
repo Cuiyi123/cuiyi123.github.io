@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-12-12T02:57:54.965Z</updated>
+  <updated>2021-12-20T08:48:46.725Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://cuiyi123.github.io/posts/f82e.html"/>
+    <id>https://cuiyi123.github.io/posts/f82e.html</id>
+    <published>2021-12-20T08:48:46.000Z</published>
+    <updated>2021-12-20T08:48:46.725Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>浣溪沙（晏殊）</title>
@@ -619,41 +632,6 @@
     <category term="随笔" scheme="https://cuiyi123.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="杂文" scheme="https://cuiyi123.github.io/tags/%E6%9D%82%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>EJ Logs</title>
-    <link href="https://cuiyi123.github.io/posts/31d6.html"/>
-    <id>https://cuiyi123.github.io/posts/31d6.html</id>
-    <published>2021-03-08T12:09:27.000Z</published>
-    <updated>2021-03-09T13:42:37.896Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;Log-1&quot;&gt;&lt;a href=&quot;#Log-1&quot; class=&quot;headerlink&quot; title=&quot;Log[1]&quot;&gt;&lt;/a&gt;&lt;font color=Blue&gt;Log[1]&lt;/font&gt;&lt;/h3&gt;&lt;p&gt;I usually take the subway to my</summary>
-        
-      
-    
-    
-    
-    <category term="Log" scheme="https://cuiyi123.github.io/categories/Log/"/>
-    
-    <category term="English Learning" scheme="https://cuiyi123.github.io/categories/English-Learning/"/>
-    
-    <category term="Writing" scheme="https://cuiyi123.github.io/categories/English-Learning/Writing/"/>
-    
-    
-    <category term="Log" scheme="https://cuiyi123.github.io/tags/Log/"/>
-    
-    <category term="English Learning" scheme="https://cuiyi123.github.io/tags/English-Learning/"/>
-    
-    <category term="English" scheme="https://cuiyi123.github.io/tags/English/"/>
-    
-    <category term="writing" scheme="https://cuiyi123.github.io/tags/writing/"/>
     
   </entry>
   
