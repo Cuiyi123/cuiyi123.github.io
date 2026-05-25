@@ -6,7 +6,7 @@
   <link href="https://cuiyi123.github.io/atom.xml" rel="self"/>
   
   <link href="https://cuiyi123.github.io/"/>
-  <updated>2021-03-09T11:09:16.291Z</updated>
+  <updated>2026-05-25T07:02:52.554Z</updated>
   <id>https://cuiyi123.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何迁移程序至另一个磁盘分区-使用【腾讯软件搬家】工具</title>
+    <link href="https://cuiyi123.github.io/posts/efa8.html"/>
+    <id>https://cuiyi123.github.io/posts/efa8.html</id>
+    <published>2026-05-25T07:02:11.000Z</published>
+    <updated>2026-05-25T07:02:52.554Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、操作方法&quot;&gt;&lt;a href=&quot;#一、操作方法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="文件管理" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="程序迁移" scheme="https://cuiyi123.github.io/tags/%E7%A8%8B%E5%BA%8F%E8%BF%81%E7%A7%BB/"/>
+    
+    <category term="腾讯软件搬家" scheme="https://cuiyi123.github.io/tags/%E8%85%BE%E8%AE%AF%E8%BD%AF%E4%BB%B6%E6%90%AC%E5%AE%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -603,39 +632,6 @@
     <category term="唐诗" scheme="https://cuiyi123.github.io/tags/%E5%94%90%E8%AF%97/"/>
     
     <category term="唐诗鉴赏" scheme="https://cuiyi123.github.io/tags/%E5%94%90%E8%AF%97%E9%89%B4%E8%B5%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>计算机网络学习笔记</title>
-    <link href="https://cuiyi123.github.io/posts/c7f5.html"/>
-    <id>https://cuiyi123.github.io/posts/c7f5.html</id>
-    <published>2021-03-14T07:58:52.000Z</published>
-    <updated>2021-03-25T11:35:30.949Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
-    
-    <category term="网络" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/"/>
-    
-    
-    <category term="计算机" scheme="https://cuiyi123.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
-    
-    <category term="网络" scheme="https://cuiyi123.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-    <category term="Internet" scheme="https://cuiyi123.github.io/tags/Internet/"/>
-    
-    <category term="互联网" scheme="https://cuiyi123.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
