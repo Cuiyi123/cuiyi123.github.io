@@ -83,19 +83,6 @@
   </entry>
   
   <entry>
-    <title>test</title>
-    <link href="https://cuiyi123.github.io/posts/f82e.html"/>
-    <id>https://cuiyi123.github.io/posts/f82e.html</id>
-    <published>2021-12-20T08:48:46.000Z</published>
-    <updated>2021-12-20T08:49:01.233Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>浣溪沙（晏殊）</title>
     <link href="https://cuiyi123.github.io/posts/2aeb.html"/>
     <id>https://cuiyi123.github.io/posts/2aeb.html</id>
@@ -632,6 +619,39 @@
     <category term="唐诗" scheme="https://cuiyi123.github.io/tags/%E5%94%90%E8%AF%97/"/>
     
     <category term="唐诗鉴赏" scheme="https://cuiyi123.github.io/tags/%E5%94%90%E8%AF%97%E9%89%B4%E8%B5%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机网络学习笔记</title>
+    <link href="https://cuiyi123.github.io/posts/c7f5.html"/>
+    <id>https://cuiyi123.github.io/posts/c7f5.html</id>
+    <published>2021-03-14T07:58:52.000Z</published>
+    <updated>2021-03-25T11:35:30.949Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="计算机" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="网络" scheme="https://cuiyi123.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="计算机" scheme="https://cuiyi123.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="网络" scheme="https://cuiyi123.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="Internet" scheme="https://cuiyi123.github.io/tags/Internet/"/>
+    
+    <category term="互联网" scheme="https://cuiyi123.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
