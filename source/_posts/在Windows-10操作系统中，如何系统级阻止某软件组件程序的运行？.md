@@ -1,6 +1,5 @@
 ---
 title: 在Windows-10操作系统中，如何系统级阻止某软件组件程序的运行？
-date: 2026-06-06 14:17:45
 categories:
   - 计算机
   - 计算机操作系统
@@ -8,6 +7,8 @@ categories:
 tags:
   - Windows 10
   - 软件运行权限设置与阻止
+abbrlink: 2cea
+date: 2026-06-06 14:17:45
 ---
 
 腾讯电脑管家软件，作为中国大陆一款流行的且强大的常规杀毒软件，很多人包括我在内，都使用了好多年了。
@@ -43,7 +44,6 @@ QMFileSearchProxy64.exe
 1. `Win + R` → 输入 `regedit` → 回车
 
 2. 定位到：
-
     HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
 
 3. 右键 → 新建 **项**，命名为 `QMFileSearchApp64.exe`
@@ -51,7 +51,6 @@ QMFileSearchProxy64.exe
 4. 在该项右侧，新建 **字符串值**，命名为 `Debugger`
 
 5. 双击 `Debugger`，数值数据填入一个不存在的路径，例如：
-
     C:\Windows\System32\NonExistent.exe
 
 6. 对 `QMLauncherEntrance64.exe` 重复步骤 3-5
@@ -106,6 +105,4 @@ FOR %F IN ("%SystemRoot%\servicing\Packages\Microsoft-Windows-GroupPolicy-Client
 
 * * *
 
-*本文章仅供个人学习、参考。
-
-
+*本文章仅供个人学习、参考。*
