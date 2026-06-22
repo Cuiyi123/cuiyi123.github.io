@@ -1,64 +1,69 @@
 ---
 title: CMD-命令提示符简介及常用命令
 categories:
-  - [计算机]
-  - [Windows, CMD]
-  - [Windows, 批处理]
+- [计算机]
+- [Windows, CMD]
 tags:
-  - 计算机
-  - CMD
-  - Windows
-  - 批处理
-  - batch
-abbrlink: 980c
-date: 2021-02-28 13:41:25
+- 计算机
+- CMD
+- Windows
+- 批处理
+- batch
+  abbrlink: 980c
+  date: 2021-02-28 13:41:25
+
 ---
+
 ## 简介
+
 Windows 命令提示符（cmd.exe）是 [Windows NT](https://baike.so.com/doc/5508294-5744040.html) 下的一个用于运行 Windows 控制面板程序或某些 DOS 程序的shell程序；或在 Windows CE 下只用于运行控制面板程序的外壳程序。      
 
 ## 常用命令
+
 <table>
  <tr>
     <td><b><center>命令名称</center></b></td>
     <td><b><center>命令含义</center></b></td>
-	<td><b><center>使用方法</center></b></td>
-	</b>
+    <td><b><center>使用方法</center></b></td>
+    </b>
  </tr>
  <tr>
-	<td>help</td>
-	<td>获取帮助文档</td>
-	<td>有关某个命令的详细信息，请键入 HELP [命令名]。</td>
+    <td>help</td>
+    <td>获取帮助文档</td>
+    <td>有关某个命令的详细信息，请键入 HELP [命令名]。</td>
  </tr>
  <tr>
- 	<td>cd</td>
- 	<td>显示当前目录名或改变当前目录</td>
- 	<td>CD [/D] [drive:][path]</td>
+     <td>cd</td>
+     <td>显示当前目录名或改变当前目录</td>
+     <td>CD [/D] [drive:][path]</td>
  </tr>
  <tr>
- 	<td>dir</td>
- 	<td>列出目录和文件名</td>
- 	<td></td>
+     <td>dir</td>
+     <td>列出目录和文件名</td>
+     <td></td>
  </tr>
  <tr>
- 	<td>echo</td>
- 	<td>显示消息，或者启用或关闭命令回显。</td>
- 	<td></td>
+     <td>echo</td>
+     <td>显示消息，或者启用或关闭命令回显。</td>
+     <td></td>
  </tr>
  <tr>
- 	<td>rem</td>
- 	<td>在批处理文件或 CONFIG.SYS 里加上注解或说明。</td>
- 	<td>rem [comment]</td>
+     <td>rem</td>
+     <td>在批处理文件或 CONFIG.SYS 里加上注解或说明。</td>
+     <td>rem [comment]</td>
  </tr>
  <tr>
- 	<td>xcopy</td>
- 	<td>拷贝目录和文件</td>
- 	<td></td>
+     <td>xcopy</td>
+     <td>拷贝目录和文件</td>
+     <td></td>
  </tr>
 </table>
 
 ### Help命令
+
 输入help命令，显示CMD的命令列表。
-``` [CMD] [CMD Help 命令] 
+
+```[CMD]
 C:\Users\dell>help
 有关某个命令的详细信息，请键入 HELP 命令名
 ASSOC          显示或修改文件扩展名关联。
@@ -161,8 +166,10 @@ WMIC           在交互式命令 shell 中显示 WMI 信息。
 ```
 
 ### ECHO命令
+
 ECHO命令的使用方法：
-``` [CMD] [CMD ECHO 命令]
+
+```[CMD]
 C:\Users\dell>echo /?
 显示消息，或者启用或关闭命令回显。
 
@@ -171,16 +178,22 @@ C:\Users\dell>echo /?
 
 若要显示当前回显设置，请键入不带参数的 ECHO。
 ```
+
 ### PAUSE命令
+
 PAUSE命令的使用方法：
-``` [CMD] [CMD PAUSE 命令]
+
+```[CMD]
 C:\Users\dell>pause /?
 暂停批处理程序，并显示以下消息:
     请按任意键继续. . .
 ```
+
 ### TITLE命令
+
 TITLE命令的使用方法：
-``` [CMD] [CMD TITLE 命令]
+
+```[CMD]
 C:\Users\dell>title /?
 设置命令提示窗口的窗口标题。
 
@@ -188,9 +201,12 @@ TITLE [string]
 
   string       指定命令提示窗口的标题。
 ```
+
 ### CD命令
+
 CD命令的使用方法：
-``` [CMD] [CMD CD 命令]
+
+```[CMD]
 C:\Users\dell>help cd
 显示当前目录名或改变当前目录。
 
@@ -226,8 +242,10 @@ CHDIR 命令不把空格当作分隔符，因此有可能将目录名改为一�
 ```
 
 ### DIR命令
+
 DIR命令的使用方法：
-``` [CMD] [CMD DIR 命令]
+
+```[CMD]
 C:\Users\dell>help dir
 显示目录中的文件和子目录列表。
 
@@ -270,9 +288,12 @@ DIR [drive:][path][filename] [/A[[:]attributes]] [/B] [/C] [/D] [/L] [/N]
 可以在 DIRCMD 环境变量中预先设定开关。通过添加前缀 - (破折号)
 来替代预先设定的开关。例如，/-W。
 ```
+
 ### PING命令
+
 PING命令的使用方法：
-```[CMD] [CMD PING 命令]
+
+```[CMD]
 C:\Users\dell>ping /?
 
 用法: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
@@ -309,8 +330,10 @@ C:\Users\dell>ping /?
 ```
 
 ### XCOPY命令
+
 XCOPY命令的使用方法：
-``` [CMD] [CMD XCOPY 命令]
+
+```[CMD]
 C:\Users\dell>xcopy /?
 复制文件和目录树。
 
@@ -375,10 +398,12 @@ XCOPY source [destination] [/A | /M] [/D[:date]] [/P] [/S [/E]] [/V] [/W]
 ```
 
 ### TREE命令
+
 以图形显示驱动器或路径的文件夹结构。
 
 TREE命令的使用方法:
-``` [CMD] [CMD TREE 命令]
+
+```[CMD]
 TREE [drive:][path] [/F] [/A]
 
    /F   显示每个文件夹中文件的名称。
@@ -386,9 +411,11 @@ TREE [drive:][path] [/F] [/A]
 ```
 
 ## 批处理
+
 [批处理](https://baike.so.com/doc/3361951-3539709.html)(Batch)，就是对某对象进行批量的处理。批处理文件的扩展名为bat 。​批处理（Batch）实际上是一种简化的[脚本语言](https://baike.so.com/doc/2874347-3033293.html#2874347-3033293-1)，也称作宏，它应用于DOS和Windows系统中，它是由DOS或者Windows系统内嵌的命令解释器（通常是COMMAND.COM或者CMD.EXE）解释运行。类似于Unix中的Shell脚本。批处理文件具有.bat或者.cmd的扩展名，其最简单的例子，是逐行书写在命令行中会用到的各种命令。更复杂的情况，需要使用 if，for，goto等命令控制程序的运行过程，如同C，Basic等高级语言一样。如果需要实现更复杂的应用，利用外部程序是必要的，这包括系统本身提供的外部命令和第三方提供的工具或者软件。批处理程序虽然是在命令行环境中运行，但不仅仅能使用命令行软件，任何32位的Windows程序都可以放在批处理文件中运行。
 
 **批处理特点：**
+
 1. 批处理在计算机安全攻防中，是必要技能，黑客一般都懂DOS命令即批处理命令，例如：`ping`，`ipconfig /all`，`net`，`telnet`，etc. 
 2. 一般的批处理文件直接改扩展名（即文件后缀名），即可反编译查看源码。 
 3. DOS程序运行完后都有返回码，有助于调试程序。 
@@ -398,50 +425,55 @@ TREE [drive:][path] [/F] [/A]
 7. 查看帮助。可以使用 `help`，如 `help dir`。或者使用 `/?`，如 `for /?`。将调出的帮助信息存储到文件中，方法如下：`help /? > help.txt` 就可以在当前目录得到一个help.txt的文本，内含`help`命令的帮助信息。
 
 ### 批处理中的变量和参数
+
 批处理中的变量分为两类：系统变量和自定义变量。
 
 系统变量的值由系统将其根据事先定义的条件自动赋值，即这些变量系统已经给它们定义了值，不需要给它赋值，只需要调用即可。系统变量具体如下：
 
-变量名称|本地/系统|含义
-----|---|---
-%ALLUSERSPROFILE%|本地|返回 "所有用户" 配置文件的位置
-%APPDATA%|本地|返回默认情况下应用程序存储数据的位置
-%CD%|本地|返回当前目录字符串。也就是获得当前路径，并将其转换为字符串
-%CMDCMDLINE% |本地|返回用来启动当前的 cmd.exe 的准确命令行
-%CMDEXTVERSION%|系统|返回当前的 "命令处理程序扩展" 的版本号
-%COMPUTERNAME%|系统|返回计算机名称
-%COMSPEC%|系统|返回命令行解释器可执行程序的准确路径。也就是返回 cmd.exe 的路径，一般在 C:\WINDOWS\system32\cmd.exe
-%DATE%|系统|返回当前日期字符串。和使用 date/t 效果一样
-%ERRORLEVEL% |系统|返回上一条命令的错误代码。通常用 0 表示正确，非0 表示错误
-%HOMEDRIVE% |系统|返回连接到用户主目录的本地工作站驱动器号。基于主目录值而设置。用户主目录是在 "本地用户和组" 中指定的
-%HOMEPATH% |系统|返回用户主目录的完整路径。基于主目录值而设置。用户主目录是在 "本地用户和组" 中指定的
-%HOMESHARE%|系统|返回用户的共享目录的网络路径。基于主目录值而设置。用户主目录是在 "本地用户和组" 中指定的
-%LOGONSERVER%|系统|返回验证当前登录会话的域控制器的名称
-%NUMBER_OF_PROCESSORS%|系统|显示安装在计算机上的处理器数目(所有 CPU 的总核心数)
-%OS%|系统|返回操作系统名称
-%PATH%|系统|指定可执行文件的搜索路径。也就是在这些目录下的可执行文件 （不仅仅是.exe，可以用 `echo` `%PATHEXT%` 查看哪些属于可执行文件。）可以直接在开始-->运行里直接执行，当然也可以在命令提示符、批处理中直接执行。例如记事本文件位于 C:\WINDOWS\NOTEPAD.EXE ，那么我们点击 "开始-->运行，输入 NOTEPAD " 就可以打开记事本了。或者我们打开 CMD 窗口 ，直接输入 NOTEPAD 也可以打开记事本。
-%PATHEXT%|系统|返回操作系统认为可执行的文件扩展名的列表
-%PROCESSOR_ARCHITECTURE%|系统|返回处理器的芯片体系结构。返回值为 x86 或 IA64 或 RISC。这些都是常见的架构 ，或者称作指令集。Windows 操作系统都是基于 x86 架构开发的，国产CPU 不是采用 x86 指令集 ，所以无法运行 Windows。
-%PROCESSOR_IDENTFIER%|系统|返回处理器说明
-%PROCESSOR_LEVEL%|系统|返回计算机上安装的处理器型号
-%PROCESSOR_REVISION%|系统|返回处理器版本号
-%PROMPT%|本地|返回当前解释程序的命令提示符设置。由 cmd.exe 生成。
-%RANDOM% |系统|返回 0 到 32767 之间的任意十进制数字。由 cmd.exe 生成。
-%SYSTEMDRIVE%|系统|返回包含Windows server operation system根目录（即系统根目录）的驱动器
-%SYSTEMROOT%|系统|返回 Windows server operation system 根目录位置
-%TEMP% 和 %TMP%|系统-用户|返回对当前登录用户可用的应用程序所使用的默认临时目录。有些应用程序需要 TEMP，而其他应用程序则需要 TMP
-%TIME%|系统|返回当前时间字符串。使用与 `time /t` 命令相同的格式
-%USERDOMAIN%|本地|返回包含用户账户的域的名称
-%USERNAME%|本地|返回当前登录的用户的名称
-%USERPROFILE%|本地|返回当前用户的配置文件的位置
-%WINDIR%|系统|返回操作系统目录的位置
+| 变量名称                     | 本地/系统 | 含义                                                                                                                                                                                                                               |
+| ------------------------ | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| %ALLUSERSPROFILE%        | 本地    | 返回 "所有用户" 配置文件的位置                                                                                                                                                                                                                |
+| %APPDATA%                | 本地    | 返回默认情况下应用程序存储数据的位置                                                                                                                                                                                                               |
+| %CD%                     | 本地    | 返回当前目录字符串。也就是获得当前路径，并将其转换为字符串                                                                                                                                                                                                    |
+| %CMDCMDLINE%             | 本地    | 返回用来启动当前的 cmd.exe 的准确命令行                                                                                                                                                                                                         |
+| %CMDEXTVERSION%          | 系统    | 返回当前的 "命令处理程序扩展" 的版本号                                                                                                                                                                                                            |
+| %COMPUTERNAME%           | 系统    | 返回计算机名称                                                                                                                                                                                                                          |
+| %COMSPEC%                | 系统    | 返回命令行解释器可执行程序的准确路径。也就是返回 cmd.exe 的路径，一般在 C:\WINDOWS\system32\cmd.exe                                                                                                                                                             |
+| %DATE%                   | 系统    | 返回当前日期字符串。和使用 date/t 效果一样                                                                                                                                                                                                        |
+| %ERRORLEVEL%             | 系统    | 返回上一条命令的错误代码。通常用 0 表示正确，非0 表示错误                                                                                                                                                                                                  |
+| %HOMEDRIVE%              | 系统    | 返回连接到用户主目录的本地工作站驱动器号。基于主目录值而设置。用户主目录是在 "本地用户和组" 中指定的                                                                                                                                                                             |
+| %HOMEPATH%               | 系统    | 返回用户主目录的完整路径。基于主目录值而设置。用户主目录是在 "本地用户和组" 中指定的                                                                                                                                                                                     |
+| %HOMESHARE%              | 系统    | 返回用户的共享目录的网络路径。基于主目录值而设置。用户主目录是在 "本地用户和组" 中指定的                                                                                                                                                                                   |
+| %LOGONSERVER%            | 系统    | 返回验证当前登录会话的域控制器的名称                                                                                                                                                                                                               |
+| %NUMBER_OF_PROCESSORS%   | 系统    | 显示安装在计算机上的处理器数目(所有 CPU 的总核心数)                                                                                                                                                                                                    |
+| %OS%                     | 系统    | 返回操作系统名称                                                                                                                                                                                                                         |
+| %PATH%                   | 系统    | 指定可执行文件的搜索路径。也就是在这些目录下的可执行文件 （不仅仅是.exe，可以用 `echo` `%PATHEXT%` 查看哪些属于可执行文件。）可以直接在开始-->运行里直接执行，当然也可以在命令提示符、批处理中直接执行。例如记事本文件位于 C:\WINDOWS\NOTEPAD.EXE ，那么我们点击 "开始-->运行，输入 NOTEPAD " 就可以打开记事本了。或者我们打开 CMD 窗口 ，直接输入 NOTEPAD 也可以打开记事本。 |
+| %PATHEXT%                | 系统    | 返回操作系统认为可执行的文件扩展名的列表                                                                                                                                                                                                             |
+| %PROCESSOR_ARCHITECTURE% | 系统    | 返回处理器的芯片体系结构。返回值为 x86 或 IA64 或 RISC。这些都是常见的架构 ，或者称作指令集。Windows 操作系统都是基于 x86 架构开发的，国产CPU 不是采用 x86 指令集 ，所以无法运行 Windows。                                                                                                            |
+| %PROCESSOR_IDENTFIER%    | 系统    | 返回处理器说明                                                                                                                                                                                                                          |
+| %PROCESSOR_LEVEL%        | 系统    | 返回计算机上安装的处理器型号                                                                                                                                                                                                                   |
+| %PROCESSOR_REVISION%     | 系统    | 返回处理器版本号                                                                                                                                                                                                                         |
+| %PROMPT%                 | 本地    | 返回当前解释程序的命令提示符设置。由 cmd.exe 生成。                                                                                                                                                                                                   |
+| %RANDOM%                 | 系统    | 返回 0 到 32767 之间的任意十进制数字。由 cmd.exe 生成。                                                                                                                                                                                            |
+| %SYSTEMDRIVE%            | 系统    | 返回包含Windows server operation system根目录（即系统根目录）的驱动器                                                                                                                                                                               |
+| %SYSTEMROOT%             | 系统    | 返回 Windows server operation system 根目录位置                                                                                                                                                                                         |
+| %TEMP% 和 %TMP%           | 系统-用户 | 返回对当前登录用户可用的应用程序所使用的默认临时目录。有些应用程序需要 TEMP，而其他应用程序则需要 TMP                                                                                                                                                                          |
+| %TIME%                   | 系统    | 返回当前时间字符串。使用与 `time /t` 命令相同的格式                                                                                                                                                                                                  |
+| %USERDOMAIN%             | 本地    | 返回包含用户账户的域的名称                                                                                                                                                                                                                    |
+| %USERNAME%               | 本地    | 返回当前登录的用户的名称                                                                                                                                                                                                                     |
+| %USERPROFILE%            | 本地    | 返回当前用户的配置文件的位置                                                                                                                                                                                                                   |
+| %WINDIR%                 | 系统    | 返回操作系统目录的位置                                                                                                                                                                                                                      |
 
 ### 批处理（.bat）文件的创建和编码
+
 - 用记事本（Notepad）就可以编写代码，输入完代码后，记得检查修改文件编码，然后把记事本文件（.txt）扩展名改为批处理文件扩展名（.bat）。
 - 在中文Windows中，不能把批处理文件编码设为 UTF-8，而需要修改编码为 ANSI 或设置文件编码为 GBK
 - 默认文件编码为 UTF-8 将导致批处理文件显示效果为乱码。
+
 ---
+
 **参考链接：**
+
 1. http://dwz.date/esuZ
 2. https://baike.so.com/doc/3361951-3539709.html
 3. [DOS批处理前言](https://www.cnblogs.com/siwuxie095/p/6200757.html).siwuxie095
