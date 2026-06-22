@@ -1,11 +1,10 @@
 ---
 title: Windows注册表简介
 categories:
-
-- Windows 10
-- 注册表
-  tags:
-- 注册表
+  - Windows 10
+  - 注册表
+tags:
+  - 注册表
 abbrlink: 39f
 date: 2021-05-23 12:14:42
 
