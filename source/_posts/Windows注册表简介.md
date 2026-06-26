@@ -5,6 +5,7 @@ categories:
   - 注册表
 tags:
   - 注册表
+description: 注册表（Registry），是 Microsoft Windows 中的一个重要的数据库，用于存储系统和应用程序的设置信息。如何打开注册表？注册表的作用是...注册表数据结构，注册表术语...
 abbrlink: 39f
 date: 2021-05-23 12:14:42
 
