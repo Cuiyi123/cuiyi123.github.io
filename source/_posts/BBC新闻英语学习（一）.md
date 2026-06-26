@@ -4,6 +4,7 @@ categories:
   - 英语学习
 tags:
   - English News
+description: Here are some BBC news scripts for English learners to go through...
 abbrlink: '9878'
 date: 2026-06-16 20:48:21
 ---
@@ -75,5 +76,3 @@ Mr Erdogan’s visit was the first by a leader from outside Africa in almost 20 
 ---
 
 *本文仅供个人学习，参考。*
-
-
