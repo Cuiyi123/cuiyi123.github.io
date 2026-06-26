@@ -9,6 +9,7 @@ tags:
 - Windows
 - 批处理
 - batch
+description: Windows 命令提示符（cmd.exe）是 Windows NT 下的一个用于运行 Windows 控制面板程序或某些 DOS 程序的shell程序。常用命令有：help, cd, dir, echo, rem, xcopy等。
 abbrlink: 980c
 date: 2021-02-28 13:41:25
 
