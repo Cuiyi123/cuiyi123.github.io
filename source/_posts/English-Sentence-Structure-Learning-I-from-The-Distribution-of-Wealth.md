@@ -5,6 +5,7 @@ categories:
 tags:
   - 英语例句
   - 英语句型
+description: extract some English sentences from original work: the Distribution of Wealth, Chapter I...
 password: a3cf98049a2f1bca91d81e0f33bfb8f0ca113145f5605eeaa0c85be43524f248
 abbrlink: '8390'
 date: 2026-06-22 15:54:54
