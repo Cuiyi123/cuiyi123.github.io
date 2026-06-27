@@ -106,6 +106,7 @@ theme: matery
 
 # add feed subscription function
 feed:
+  enable: false
   type: atom
   path: atom.xml
   limit: 20
