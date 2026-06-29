@@ -1,1 +1,0 @@
-This is a personal blog called "Cuiyi's Blog" which uses a web frame of Hexo. You can view different types of articles to be posted when you would like to know any new knowledge or just want to read some personnal articles for entertainment.
